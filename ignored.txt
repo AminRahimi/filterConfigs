@@ -1,4 +1,5 @@
-
+ALL@ضهرم60
+ALL@طهرم60
 
 BUCS@ضهرم70@toSar:max=-0.20
 BUCS@ضهرم60@toSar:max=-0.13
