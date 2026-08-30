@@ -1,6 +1,8 @@
 ALL@ضهرم60
 ALL@طهرم60
 
+ALL@فزر
+
 BUCS@ضهرم70@toSar:max=-0.20
 BUCS@ضهرم60@toSar:max=-0.13
 BUCS@ضجار60@toSar:max=-0.17
@@ -660,7 +662,7 @@ BEPS@طخود6056-طخود6057@profit:0.12
 BEPS@طخود6055-طخود6057@profit:0.06
 
 
-ALL@فزر
+
 
 
 
@@ -684,12 +686,6 @@ BEPS_LONG_CALL@طستا6054-طستا6048-ضستا6049
 
 
 
-
-BECS_goodPL@ضخود60
-
-
-
-
 BUCS_COLLAR@ضذوب6016-ضذوب6019-طذوب6019@profit:0.09
 
 
@@ -698,8 +694,6 @@ BUCS_LONG_PUT@ضذوب6016-ضذوب6019-طذوب6019@profit:0.09
 BUCS_COLLAR@ضذوب6016-ضذوب6018-طذوب6018@profit:0.09
 
 
-CALL_BUTTERFLY@ضخود60
-CALL_BUTT_CONDOR@ضخود60
 
 
 BUS_With_BUCS_BEPS@ضهرم70@profit:0.08
@@ -723,42 +717,6 @@ BUCS_LONG_PUT@ضخود6049-ضخود6055-طخود6055@profit:0.09
 BUCS_LONG_PUT@ضخود6048-ضخود6055-طخود6055@profit:0.09
 
 BUCS_LONG_PUT@ضخود6054-ضخود6055-طخود6055@profit:0.09
-
-
-BECS_Ratio@ضهرم60@profit:0.03
-
-BEPS_Ratio@طهرم60@profit:0.03
-
-
-
-
-
-
-
-BESRatio_BUCS@ضهرم60@profit:0.05
-
-BESRatio_BUPS@طهرم60@profit:0.05
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -804,19 +762,6 @@ BUCS_COLLAR@ضملت6018-ضملت6025-طملت6025@profit:0.05
 
 
 
-
-
-
-
-
-
-
-
-
-
-BECS_LONG_CALL@ضاطلس070
-
-BUCS_RATIO@ضاطلس070
 
 
 
