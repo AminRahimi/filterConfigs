@@ -30,6 +30,9 @@ BUS@ضذوب70@toSar:max=-0.25
 BUS@ضراز80@toSar:max=-0.25
 BUS@ضسپا70@toSar:max=-0.25
 BUS@ضبساما7@toSar:max=-0.25
+BUS@ضمخا7@toSar:max=-0.25
+BUS@ضفرابورس7@toSar:max=-0.25
+
 
 
 -------------------------------
@@ -66,9 +69,10 @@ BES@ضخود80@toSar:min=0.35
 BES@ضصاد70@toSar:min=0.35
 BES@ضذوب70@toSar:min=0.35
 BES@ضراز80@toSar:min=0.35
-BUS@ضسپا70@toSar:min=0.35
-BUS@ضبساما7@toSar:min=0.35
-
+BES@ضسپا70@toSar:min=0.35
+BES@ضبساما7@toSar:min=0.35
+BES@ضمخا7@toSar:min=0.35
+BES@ضفرابورس7@toSar:min=0.35
 
 ---------------------------------------
 
