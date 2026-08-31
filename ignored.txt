@@ -3,7 +3,7 @@ ALL@طهرم60
 
 ALL@فزر
 
-BUS@ضهرم70@toSar:max=-0.20
+BUS@ضهرم70@toSar:max=-0.16
 BUS@ضهرم60@toSar:max=-0.13
 BUS@ضجار60@toSar:max=-0.17
 BUS@ضسپا60@toSar:max=-0.16
