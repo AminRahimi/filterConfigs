@@ -97,8 +97,8 @@ SYNTHETIC_COVERED_CALL@ضمخا70@toSar:max=-0.30
 
 
 
-COVERED@ضهرم70@toSar:max=-0.20
-COVERED@ضهرم60@toSar:max=-0.14
+COVERED@ضهرم70@toSar:max=-0.05
+COVERED@ضهرم60@toSar:max=-0.05
 COVERED@ضجار60@toSar:max=-0.17
 COVERED@ضسپا60@toSar:max=-0.16
 COVERED@ضملت60@toSar:max=-0.16
@@ -373,8 +373,13 @@ BECS_LONG_CALL@ضستا70@toSar:min=0.30
 BECS_LONG_CALL@ضملت70@toSar:min=0.30
 BECS_LONG_CALL@ضراز60@toSar:min=0.15
 BECS_LONG_CALL@ضطعام60@toSar:min=0.14
-BECS_LONG_CALL@ضاطلس070@toSar:max=0.25
-BECS_LONG_CALL@ضمخا70@toSar:max=0.30
+BECS_LONG_CALL@ضاطلس070@toSar:min=0.25
+BECS_LONG_CALL@ضمخا70@toSar:min=0.30
+BECS_LONG_CALL@ضخود80@toSar:min=0.30
+BECS_LONG_CALL@ضصاد70@toSar:min=0.30
+BECS_LONG_CALL@ضذوب70@toSar:min=0.30
+BECS_LONG_CALL@ضراز80@toSar:min=0.30
+BECS_LONG_CALL@ضسپا70@toSar:min=0.30
 
 
 
@@ -428,7 +433,9 @@ BEPS_LONG_CALL@طملت70@toSar:min=0.30
 BEPS_LONG_CALL@طراز60@toSar:min=0.15
 BEPS_LONG_CALL@ططعام60@toSar:min=0.14
 BEPS_LONG_CALL@ضاطلس070@toSar:max=0.25
-BEPS_LONG_CALL@ضمخا70@toSar:max=0.30
+BEPS_LONG_CALL@ضمخا70@toSar:min=0.30
+BEPS_LONG_CALL@طخود80@toSar:min=0.30
+BEPS_LONG_CALL@طذوب70@toSar:min=0.30
 
 
 BEPS@طهرم70@toSar:min=0.35
@@ -543,8 +550,9 @@ BES_With_BUPS_BECS@طستا70@toSar:min=0.25
 BES_With_BUPS_BECS@طملت70@toSar:min=0.25
 BES_With_BUPS_BECS@طراز60@toSar:min=0.10
 BES_With_BUPS_BECS@ططعام60@toSar:min=0.15
-BES_With_BUPS_BECS@ضاطلس070@toSar:max=0.25
-BES_With_BUPS_BECS@ضمخا70@toSar:max=0.30
+BES_With_BUPS_BECS@ضاطلس070@toSar:min=0.25
+BES_With_BUPS_BECS@ضمخا70@toSar:min=0.30
+BES_With_BUPS_BECS@طخود80@toSar:min=0.30
 
 
 
@@ -755,33 +763,27 @@ BUCS_COLLAR@ضملت6018-ضملت6025-طملت6025@profit:0.05
 
 
 
+PUT_BUTTERFLY@طشنا60@profit:0
 
 
 
 
 
+BUS_With_BUCS_BEPS@ضهرم70@profit:0.12
+
+
+BOX@ضملت6023-ضملت6025-طملت6023-طملت6025@profit:0.06
+
+
+BUCS_COLLAR@ضذوب6011-ضذوب6020-طذوب6020@profit:0.07
 
 
 
+BUCS_COLLAR@ضملت6021-ضملت6023-طملت6023@profit:0.035
 
+BuyByCallNokoolGain@ضاطلس060
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+BuyStockByPut@طاطلس060
 
 
 
