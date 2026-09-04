@@ -5,17 +5,15 @@ ALL@فزر
 
 BUS@ضهرم70@toSar:max=-0.28
 BUS@ضهرم60@toSar:max=-0.13
-BUS@ضجار60@toSar:max=-0.17
-BUS@ضسپا60@toSar:max=-0.16
-BUS@ضملت60@toSar:max=-0.16
-BUS@ضستا60@toSar:max=-0.16
-BUS@ضفزر6@toSar:max=-0.18
-BUS@ضشنا60@toSar:max=-0.15
+BUS@ضجار60@toSar:max=-0.23
+BUS@ضسپا60@toSar:max=-0.23
+BUS@ضملت60@toSar:max=-0.23
+BUS@ضفزر6@toSar:max=-0.20
+BUS@ضشنا60@toSar:max=-0.23
 BUS@ضاطلس0622@toSar:max=-0.25
-BUS@ضاطلس0609@toSar:max=-0.05
 BUS@ضموج6@toSar:max=-0.25
-BUS@ضذوب60@toSar:max=-0.15
-BUS@ضطعام6@toSar:max=-0.20
+BUS@ضذوب60@toSar:max=-0.23
+BUS@ضطعام6@toSar:max=-0.05
 BUS@ضتوان6@toSar:max=-0.25
 BUS@ضتاص70@toSar:max=-0.30
 BUS@ضملي70@toSar:max=-0.30
@@ -303,6 +301,12 @@ BUCS_COLLAR@ضملت6021-ضملت6023-طملت6023@profit:0.035
 BuyByCallNokoolGain@ضاطلس060
 
 BuyStockByPut@طاطلس060
+
+
+
+
+
+
 
 
 
