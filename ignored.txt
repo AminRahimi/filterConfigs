@@ -32,7 +32,7 @@ BUS@ضسپا70@toSar:max=-0.25
 BUS@ضبساما7@toSar:max=-0.25
 BUS@ضمخا7@toSar:max=-0.25
 BUS@ضفرابورس7@toSar:max=-0.25
-
+BUS@ضهمن70@toSar:max=-0.25
 
 
 -------------------------------
