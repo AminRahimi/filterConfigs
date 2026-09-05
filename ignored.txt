@@ -3,7 +3,7 @@ ALL@طهرم60
 
 ALL@فزر
 
-BUS@ضهرم70@toSar:max=-0.28
+BUS@ضهرم70@toSar:max=-0.29
 BUS@ضهرم60@toSar:max=-0.13
 BUS@ضجار60@toSar:max=-0.23
 BUS@ضسپا60@toSar:max=-0.23
@@ -22,16 +22,16 @@ BUS@ضستا70@toSar:max=-0.30
 BUS@ضملت70@toSar:max=-0.30
 BUS@ضاطلس070@toSar:max=-0.30
 BUS@ضمخا70@toSar:max=-0.30
-BUS@ضخود80@toSar:max=-0.25
+BUS@ضخود80@toSar:max=-0.28
 BUS@ضصاد70@toSar:max=-0.25
 BUS@ضذوب70@toSar:max=-0.25
 BUS@ضراز80@toSar:max=-0.25
 BUS@ضسپا70@toSar:max=-0.25
 BUS@ضبساما7@toSar:max=-0.25
 BUS@ضمخا7@toSar:max=-0.25
-BUS@ضفرابورس7@toSar:max=-0.25
-BUS@ضهمن70@toSar:max=-0.25
-
+BUS@ضفرابورس7@toSar:max=-0.30
+BUS@ضهمن70@toSar:max=-0.28
+BUS@ضستا80@toSar:max=-0.31
 
 -------------------------------
 
@@ -72,6 +72,8 @@ BES@ضبساما7@toSar:min=0.35
 BES@ضمخا7@toSar:min=0.35
 BES@ضفرابورس7@toSar:min=0.35
 BES@ضهمن70@toSar:min=0.25
+BES@ضستا80@toSar:min=0.25
+
 
 ---------------------------------------
 
@@ -269,11 +271,11 @@ BUCS_COLLAR@ضملت6021-ضملت6025-طملت6025@profit:0.05
 BUCS_COLLAR@ضملت6018-ضملت6025-طملت6025@profit:0.05
 
 
+COVERED@ضهرم70@toSar:max=-0.28
 
+COVERED@ضستا80@toSar:max=-0.35
 
-
-
-
+COVERED@ضخود80@toSar:max=-0.31
 
 
 
@@ -301,6 +303,28 @@ BUCS_COLLAR@ضملت6021-ضملت6023-طملت6023@profit:0.035
 BuyByCallNokoolGain@ضاطلس060
 
 BuyStockByPut@طاطلس060
+
+
+BOX@ضشنا6047-ضشنا6048-طشنا6047-طشنا6048@p:0.06
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
