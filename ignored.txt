@@ -269,14 +269,6 @@ BUCS_COLLAR@ضملت6021-ضملت6025-طملت6025@profit:0.05
 BUCS_COLLAR@ضملت6018-ضملت6025-طملت6025@profit:0.05
 
 
-COVERED@ضهرم70@toSar:max=-0.28
-
-COVERED@ضستا80@toSar:max=-0.35
-
-COVERED@ضخود80@toSar:max=-0.31
-
-
-
 
 
 
@@ -286,7 +278,7 @@ PUT_BUTTERFLY@طشنا60@profit:0
 
 
 
-BUS_With_BUCS_BEPS@ضهرم70@profit:0.12
+BUS_With_BUCS_BEPS@ضهرم70@profit:0.07
 
 
 BOX@ضملت6023-ضملت6025-طملت6023-طملت6025@profit:0.06
@@ -309,7 +301,7 @@ BOX@ضشنا6047-ضشنا6048-طشنا6047-طشنا6048@p:0.06
 
 
 
-
+IRON_BUTT_CONDOR_BUPS@طملت60
 
 
 
