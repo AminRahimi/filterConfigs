@@ -14,6 +14,7 @@ BUS@ضجار60@toSar:max=-0.20
 BUS@ضسپا60@toSar:max=-0.23
 BUS@ضملت60@toSar:max=-0.16
 BUS@ضفزر6@toSar:max=-0.20
+BUS@ضفزر7@toSar:max=-0.20
 BUS@ضشنا60@toSar:max=-0.15
 BUS@ضاطلس0622@toSar:max=-0.25
 BUS@ضموج6@toSar:max=-0.25
@@ -57,6 +58,7 @@ BES@ضجار60@toSar:min=0.22
 BES@ضذوب60@toSar:min=0.22
 BES@ضسپا60@toSar:min=0.25
 BES@ضفزر6@toSar:min=0.28
+BES@ضفزر7@toSar:min=0.28
 BES@ضاطلس0609@toSar:min=0.28
 BES@ضتوان6@toSar:min=0.28
 BES@ضاطلس0622@toSar:min=0.28
@@ -315,8 +317,8 @@ BOX@ضشنا6047-ضشنا6048-طشنا6047-طشنا6048@p:0.06
 IRON_BUTT_CONDOR_BUPS@طملت60
 
 
-
-
+PUT_BUTTERFLY@طفزر6@p:0
+IRON_BUTT_CONDOR_BUCS@ضفزر6@p:0
 
 
 
