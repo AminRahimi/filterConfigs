@@ -1,9 +1,13 @@
 ALL@ضهرم60
 ALL@طهرم60
 
-ALL@فزر
 
-BUS@ضهرم70@toSar:max=-0.23
+
+ALL@وبملت
+
+
+
+BUS@ضهرم70@toSar:max=-0.28
 BUS@ضهرم60@toSar:max=-0.13
 BUS@ضجار60@toSar:max=-0.20
 BUS@ضسپا60@toSar:max=-0.23
@@ -29,8 +33,11 @@ BUS@ضراز80@toSar:max=-0.23
 BUS@ضسپا70@toSar:max=-0.23
 BUS@ضبساما7@toSar:max=-0.23
 BUS@ضفرابورس7@toSar:max=-0.30
-BUS@ضهمن70@toSar:max=-0.18
+BUS@ضهمن70@toSar:max=-0.25
 BUS@ضستا80@toSar:max=-0.31
+BUS@ضدرو70@toSar:max=-0.25
+
+
 
 -------------------------------
 
@@ -71,6 +78,9 @@ BES@ضبساما7@toSar:min=0.35
 BES@ضفرابورس7@toSar:min=0.35
 BES@ضهمن70@toSar:min=0.25
 BES@ضستا80@toSar:min=0.25
+BES@ضدرو70@toSar:min=0.29
+
+
 
 
 ---------------------------------------
@@ -302,6 +312,26 @@ BOX@ضشنا6047-ضشنا6048-طشنا6047-طشنا6048@p:0.06
 
 
 IRON_BUTT_CONDOR_BUPS@طملت60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
