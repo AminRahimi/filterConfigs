@@ -88,11 +88,7 @@ BES@ضطعام8@toSar:min=0.29
 ---------------------------------------
 
 
-
-
-IRON_BUTT_CONDOR_BUPS@طستا60@profit:0
 IRON_BUTT_CONDOR_BUPS@طهرم60@profit:0
-IRON_BUTT_CONDOR_BUPS@طستا6040-طستا6049-ضستا6041-ضستا6049@profit:0.02
 IRON_BUTT_CONDOR_BUPS@طخود71@profit:0.02
 IRON_BUTT_CONDOR_BUPS@طخود60@profit:0.02
 
@@ -101,12 +97,8 @@ LongGUTS_STRANGLE@allProfit
 
 IRON_BUTT_CONDOR_BUCS@ضهرم60@profit:0.05
 IRON_BUTT_CONDOR_BUCS@ضهرم6045-ضهرم6047-طهرم6046-طهرم6047@profit:0.01
-IRON_BUTT_CONDOR_BUCS@ضستا60@profit:0.02
 IRON_BUTT_CONDOR_BUCS@ضخود71@profit:0.07
-IRON_BUTT_CONDOR_BUCS@ضستا60@profit:0.05
 IRON_BUTT_CONDOR_BUCS@ضهرم70@profit:0.06
-
-
 
 
 
@@ -114,19 +106,12 @@ IRON_BUTT_CONDOR_BUCS@ضهرم70@profit:0.06
 
 CALL_BUTTERFLY@ضهرم6049-ضهرم6050-ضهرم6050-ضهرم6051@profit:-1.15
 CALL_BUTTERFLY@ضهرم6048-ضهرم6049-ضهرم6049-ضهرم6050@profit:-1.15
-CALL_BUTTERFLY@ضخود6055-ضخود6057-ضخود6057-ضخود6058@profit:-1.7
-CALL_BUTTERFLY@ضخود6049-ضخود6050-ضخود6050-ضخود6051@profit:-1.3
-CALL_BUTTERFLY@ضذوب6019-ضذوب6020-ضذوب6020-ضذوب6021@profit:-1.4
+CALL_BUTTERFLY@ضذوب60
 CALL_BUTTERFLY@ضخود80@profit:-1.5
 CALL_BUTTERFLY@ضخود6046-ضخود6047-ضخود6047-ضخود6048@profit:0
 CALL_BUTTERFLY@ضهرم7055-ضهرم7056-ضهرم7056-ضهرم7057@profit:-1.4
-CALL_BUTTERFLY@ضستا60@profit:-1.2
 CALL_BUTTERFLY@ضاطلس0622@profit:-1.4
 
-PUT_BUTTERFLY@طستا6040-طستا6042-طستا6042-طستا6044@profit:-1.3
-PUT_BUTTERFLY@طستا6042-طستا6046-طستا6046-طستا6049@profit:-1.4
-PUT_BUTTERFLY@طستا6046-طستا6048-طستا6048-طستا6049@profit:-1.4
-PUT_BUTTERFLY@طستا60@profit:-1.3
 PUT_BUTTERFLY@طستا6040-طستا6045-طستا6045-طستا6049@profit:-1.1
 PUT_BUTTERFLY@طهرم7050-طهرم7051-طهرم7051-طهرم7052@profit:-1.2
 PUT_BUTTERFLY@طهرم7051-طهرم7053-طهرم7053-طهرم7055@profit:-1.2
@@ -143,19 +128,14 @@ CALL_BUTT_CONDOR@ضخود80@profit:0
 CALL_BUTTERFLY@ضهرم7053-ضهرم7055-ضهرم7055-ضهرم7056@profit:-1.59
 
 BECS@ضملت6026-ضملت6027@profit:0.05
-CALL_BUTTERFLY@ضملت60@profit:0
-CALL_BUTT_CONDOR@ضستا60@profit:0
+CALL_BUTTERFLY@ضملت60
 
 IRON_BUTT_CONDOR_BUPS@طهرم7059-طهرم7060-ضهرم7060-ضهرم7061@profit:0
 LongGUTS_STRANGLE@profit:0.03
-PUT_BUTTERFLY@طستا6046-طستا6049-طستا6049-طستا6051@profit:-1.15
 
 
 
-PUT_BUTTERFLY@طملت6017-طملت6018-طملت6018-طملت6019@profit:-1.5
-
-
-PUT_BUTTERFLY@طملت6016-طملت6018-طملت6018-طملت6020@profit:-1.5
+PUT_BUTTERFLY@طملت60@profit:0
 
 
 PUT_BUTTERFLY@طهرم7050-طهرم7052-طهرم7052-طهرم7054@profit:-1
@@ -172,9 +152,6 @@ CALL_BUTTERFLY@ضهرم70@profit:-1
 
 BOX@ضفزر620-ضفزر621-طفزر620-طفزر621@profit:0.09
 
-BUPS_LONG_PUT@طستا6049-طستا6051-طستا6052@profit:0.02
-
-
 
 
 
@@ -186,99 +163,17 @@ PUT_BUTTERFLY@طملت6016-طملت6017-طملت6017-طملت6018@profit:-1
 
 
 
-BUCS_LONG_PUT@ضذوب6011-ضذوب6013-طذوب6015@profit:0.03
-
-BUCS_LONG_PUT@ضذوب6011-ضذوب6013-طذوب6016@profit:0.03
 
 
-BEPS_LONG_CALL@ضخود6056-ضخود6057@profit:0.12
-BEPS_LONG_CALL@ضخود6055-ضخود6057@profit:0.06
 BEPS_LONG_CALL@ضهرم6050-ضهرم6051@profit:0.12
 
-BEPS@طخود6056-طخود6057@profit:0.12
-BEPS@طخود6055-طخود6057@profit:0.06
 
 
-
-
-
-
-BECS@ضطعام606-ضطعام607@profit:1.3
-
-
-
-
-
-BOX_BUPS_BECS@طخود6055-طخود6056-ضخود6056-ضخود6055@profit:0.07
 
 
 BECS@ضاطلس060905-ضاطلس060906@profit:1.3
 
 CALL_BUTT_CONDOR@ضملي7061-ضملي7066-ضملي7066-ضملي7067@profit:0.05
-
-BEPS_LONG_CALL@طستا6054-طستا6048-ضستا6049
-
-
-
-
-
-
-BUCS_COLLAR@ضذوب6016-ضذوب6019-طذوب6019@profit:0.09
-
-
-BUCS_LONG_PUT@ضذوب6016-ضذوب6019-طذوب6019@profit:0.09
-
-BUCS_COLLAR@ضذوب6016-ضذوب6018-طذوب6018@profit:0.09
-
-
-
-
-BUS_With_BUCS_BEPS@ضهرم70@profit:0.08
-
-
-BUCS_LONG_PUT@ضشنا6036-ضشنا6047-طشنا6047@profit:0.03
-
-
-
-BUCS_COLLAR@ضخود6053-ضخود6055-طخود6055@profit:0.09
-
-BUCS_COLLAR@ضخود6054-ضخود6055-طخود6055@profit:0.09
-BUCS_COLLAR@ضخود6052-ضخود6055-طخود6055@profit:0.09
-BUCS_LONG_PUT@ضخود6053-ضخود6055-طخود6055@profit:0.09
-
-BUCS_LONG_PUT@ضخود6052-ضخود6055-طخود6055@profit:0.09
-BUCS_LONG_PUT@ضخود6051-ضخود6055-طخود6055@profit:0.09
-BUCS_LONG_PUT@ضخود6049-ضخود6055-طخود6055@profit:0.09
-
-
-BUCS_LONG_PUT@ضخود6048-ضخود6055-طخود6055@profit:0.09
-
-BUCS_LONG_PUT@ضخود6054-ضخود6055-طخود6055@profit:0.09
-
-
-
-
-
-
-BUCS_COLLAR@ضستا6051-ضستا6053-طستا6053@profit:0.05
-
-
-BUCS_LONG_PUT@ضملت6019-ضملت6024-طملت6024@profit:0.05
-
-BUCS_COLLAR@ضملت6020-ضملت6024-طملت6024@profit:0.05
-BUCS_COLLAR@ضملت6024-طملت6024@profit:0.05
-BUCS_COLLAR@ضملت6019-ضملت6024-طملت6024@profit:0.05
-
-BUCS_COLLAR@ضملت6021-ضملت6024-طملت6024@profit:0.05
-
-BUCS_COLLAR@ضملت6018-ضملت6024-طملت6024@profit:0.05
-BUCS_COLLAR@ضملت6015-ضملت6024-طملت6024@profit:0.05
-
-
-BUCS_COLLAR@ضملت6020-ضملت6025-طملت6025@profit:0.05
-
-BUCS_COLLAR@ضملت6021-ضملت6025-طملت6025@profit:0.05
-BUCS_COLLAR@ضملت6018-ضملت6025-طملت6025@profit:0.05
 
 
 
@@ -288,19 +183,15 @@ PUT_BUTTERFLY@طشنا60@profit:0
 
 
 
-
-
 BUS_With_BUCS_BEPS@ضهرم70@profit:0.07
 
 
-BOX@ضملت6023-ضملت6025-طملت6023-طملت6025@profit:0.06
-
-
-BUCS_COLLAR@ضذوب6011-ضذوب6020-طذوب6020@profit:0.07
 
 
 
-BUCS_COLLAR@ضملت6021-ضملت6023-طملت6023@profit:0.035
+
+
+
 
 BuyByCallNokoolGain@ضاطلس060
 
@@ -323,17 +214,7 @@ IRON_BUTT_CONDOR_BUCS@ضفزر6@p:0
 
 
 
-
-
-
-
 BOX_BUPS_BECS@طستا7061-طستا7062-ضستا7062-ضستا7061@p:0.06
-
-
-
-
-
-BUCS_COLLAR@ضملت6022-ضملت6023-طملت6023@p:0.05
 
 
 
