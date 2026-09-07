@@ -8,13 +8,13 @@ ALL@وبصادر
 
 
 
-BUS@ضهرم70@toSar:max=-0.25
+BUS@ضهرم70@toSar:max=-0.21
 BUS@ضهرم60@toSar:max=-0.13
 BUS@ضجار60@toSar:max=-0.12
 BUS@ضسپا60@toSar:max=-0.23
 BUS@ضملت60@toSar:max=-0.12
-BUS@ضفزر6@toSar:max=-0.20
-BUS@ضفزر7@toSar:max=-0.25
+BUS@ضفزر6@toSar:max=-0.25
+BUS@ضفزر7@toSar:max=-0.29
 BUS@ضشنا60@toSar:max=-0.12
 BUS@ضاطلس0622@toSar:max=-0.18
 BUS@ضموج6@toSar:max=-0.25
@@ -37,6 +37,7 @@ BUS@ضفرابورس7@toSar:max=-0.30
 BUS@ضهمن70@toSar:max=-0.25
 BUS@ضستا80@toSar:max=-0.31
 BUS@ضدرو70@toSar:max=-0.25
+BUS@ضطعام8@toSar:max=-0.28
 
 
 
@@ -64,7 +65,7 @@ BES@ضاطلس0622@toSar:min=0.28
 BES@ضموج6@toSar:min=0.28
 BES@ضتاص70@toSar:min=0.28
 BES@ضخود71@toSar:min=0.30
-BES@ضملي70@toSar:min=0.30
+BES@ضملي70@toSar:min=0.35
 BES@ضستا70@toSar:min=0.30
 BES@ضملت70@toSar:min=0.30
 BES@ضراز60@toSar:min=0.15
@@ -81,8 +82,7 @@ BES@ضفرابورس7@toSar:min=0.35
 BES@ضهمن70@toSar:min=0.25
 BES@ضستا80@toSar:min=0.25
 BES@ضدرو70@toSar:min=0.29
-
-
+BES@ضطعام8@toSar:min=0.29
 
 
 ---------------------------------------
@@ -327,29 +327,29 @@ IRON_BUTT_CONDOR_BUCS@ضفزر6@p:0
 
 
 
+BOX_BUPS_BECS@طستا7061-طستا7062-ضستا7062-ضستا7061@p:0.06
 
 
 
 
 
+BUCS_COLLAR@ضملت6022-ضملت6023-طملت6023@p:0.05
 
 
 
+BUCS_COLLAR@ضسپا6044-ضسپا6046-طسپا6046@p:0.04
 
 
+BOX@ضفزر6@p:0.05
 
 
+BUCS_LONG_PUT@ضسپا6042-ضسپا6047-طسپا6047@p:0.05
 
+BUCS_COLLAR@ضسپا6042-ضسپا6046-طسپا6046@p:0.06
 
+BUCS_LONG_PUT@ضسپا6044-ضسپا6047-طسپا6047@p:0.06
 
-
-
-
-
-
-
-
-
+BUCS_COLLAR@ضسپا6044-ضسپا6046-طسپا6046@p:0.06
 
 
 
