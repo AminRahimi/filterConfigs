@@ -5,8 +5,8 @@ ALL@وبملت
 
 
 
-BUS@ضهرم70@toSar:max=-0.15
-BUS@ضهرم60@toSar:max=-0.13
+BUS@ضهرم70@toSar:max=-0.12
+BUS@ضهرم60@toSar:max=-0.12
 BUS@ضجار60@toSar:max=-0.04
 BUS@ضسپا60@toSar:max=-0.20
 BUS@ضملت60@toSar:max=-0.04
