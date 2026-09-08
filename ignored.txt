@@ -124,7 +124,6 @@ BUCS_goodPL@toSar:max=0.05
 CALL_BUTT_CONDOR@ضخود80@profit:0
 CALL_BUTTERFLY@ضهرم7053-ضهرم7055-ضهرم7055-ضهرم7056@profit:-1.59
 
-BECS@ضملت6026-ضملت6027@profit:0.05
 CALL_BUTTERFLY@ضملت60
 
 IRON_BUTT_CONDOR_BUPS@طهرم7059-طهرم7060-ضهرم7060-ضهرم7061@profit:0
@@ -147,9 +146,6 @@ IRON_BUTT_CONDOR_BUPS@طملت6015-طملت6017-ضملت6016-ضملت6019@profit
 
 CALL_BUTTERFLY@ضهرم70@profit:-1
 
-BOX@ضفزر620-ضفزر621-طفزر620-طفزر621@profit:0.09
-
-
 
 
 CALL_BUTT_CONDOR@profit:-0.01
@@ -158,11 +154,6 @@ CALL_BUTT_CONDOR@profit:-0.01
 
 PUT_BUTTERFLY@طملت6016-طملت6017-طملت6017-طملت6018@profit:-1
 
-
-
-
-
-BEPS_LONG_CALL@ضهرم6050-ضهرم6051@profit:0.12
 
 
 
@@ -181,8 +172,6 @@ PUT_BUTTERFLY@طشنا60@profit:0
 BUS_With_BUCS_BEPS@ضهرم70@profit:0.07
 
 
-
-BuyStockByPut@طاطلس060
 
 
 BOX@ضشنا6047-ضشنا6048-طشنا6047-طشنا6048@p:0.06
@@ -220,7 +209,7 @@ BUCS_LONG_PUT@ضسپا6044-ضسپا6047-طسپا6047@p:0.06
 BUCS_COLLAR@ضسپا6044-ضسپا6046-طسپا6046@p:0.06
 
 
-COVERED@ضهرم70@toSar:max=-0.20@p:0.07
+COVERED@ضهرم70@p:0.07
 
 
 
