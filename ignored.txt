@@ -1,24 +1,21 @@
 ALL@ضهرم60
 ALL@طهرم60
 
-
-
 ALL@وبملت
-ALL@وبصادر
 
 
 
-BUS@ضهرم70@toSar:max=-0.21
+BUS@ضهرم70@toSar:max=-0.15
 BUS@ضهرم60@toSar:max=-0.13
-BUS@ضجار60@toSar:max=-0.05
-BUS@ضسپا60@toSar:max=-0.23
-BUS@ضملت60@toSar:max=-0.05
+BUS@ضجار60@toSar:max=-0.04
+BUS@ضسپا60@toSar:max=-0.20
+BUS@ضملت60@toSar:max=-0.04
 BUS@ضفزر6@toSar:max=-0.25
 BUS@ضفزر7@toSar:max=-0.29
-BUS@ضشنا60@toSar:max=-0.05
-BUS@ضاطلس0622@toSar:max=-0.16
+BUS@ضشنا60@toSar:max=-0.04
+BUS@ضاطلس0622@toSar:max=-0.13
 BUS@ضموج6@toSar:max=-0.25
-BUS@ضذوب60@toSar:max=-0.05
+BUS@ضذوب60@toSar:max=-0.04
 BUS@ضتوان6@toSar:max=-0.20
 BUS@ضتاص70@toSar:max=-0.25
 BUS@ضملي70@toSar:max=-0.25
@@ -221,6 +218,50 @@ BUCS_COLLAR@ضسپا6042-ضسپا6046-طسپا6046@p:0.06
 BUCS_LONG_PUT@ضسپا6044-ضسپا6047-طسپا6047@p:0.06
 
 BUCS_COLLAR@ضسپا6044-ضسپا6046-طسپا6046@p:0.06
+
+
+COVERED@ضهرم70@toSar:max=-0.20@p:0.07
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
