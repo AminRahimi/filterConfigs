@@ -14,12 +14,13 @@ BUS@ضتوان6@toSar:max=-0.22
 BUS@ضفزر7@toSar:max=-0.29
 BUS@ضتاص70@toSar:max=-0.25
 BUS@ضملي70@toSar:max=-0.27
-BUS@ضخود71@toSar:max=-0.19
-BUS@ضستا70@toSar:max=-0.28
+BUS@ضخود71@toSar:max=-0.18
+BUS@ضستا70@toSar:max=-0.20
 BUS@ضملت70@toSar:max=-0.29
-BUS@ضاطلس070@toSar:max=-0.30
+BUS@ضاطلس070@toSar:max=-0.25
 BUS@ضمخا7@toSar:max=-0.25
 BUS@ضصاد70@toSar:max=-0.26
+BUS@ضموج7@toSar:max=-0.32
 BUS@ضذوب70@toSar:max=-0.20
 BUS@ضدرو70@toSar:max=-0.25
 BUS@ضسپا70@toSar:max=-0.29
@@ -34,7 +35,7 @@ BUS@ضجار8@toSar:max=-0.32
 BUS@ضشنا8@toSar:max=-0.32
 BUS@ضذوب8@toSar:max=-0.27
 BUS@ضملت8@toSar:max=-0.32
-BUS@ضموج7@toSar:max=-0.32
+
 
 
 -------------------------------
