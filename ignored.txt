@@ -51,24 +51,23 @@ BES@ضخود60@toSar:min=0.25
 BES@ضاطلس051@toSar:min=0.05
 BES@ضسپا60@toSar:min=0.12
 BES@ضفزر6@toSar:min=0.28
-BES@ضفزر7@toSar:min=0.28
 BES@ضاطلس0609@toSar:min=0.28
 BES@ضتوان6@toSar:min=0.28
 BES@ضاطلس0622@toSar:min=0.28
 BES@ضموج6@toSar:min=0.28
+BES@ضراز60@toSar:min=0.15
+BES@ضطعام60@toSar:min=0.14
 BES@ضتاص70@toSar:min=0.28
 BES@ضخود71@toSar:min=0.30
 BES@ضملي70@toSar:min=0.35
 BES@ضستا70@toSar:min=0.30
+BES@ضفزر7@toSar:min=0.28
 BES@ضملت70@toSar:min=0.42
-BES@ضراز60@toSar:min=0.15
-BES@ضطعام60@toSar:min=0.14
 BES@ضاطلس070@toSar:min=0.25
 BES@ضمخا7@toSar:min=0.48
-BES@ضخود80@toSar:min=0.38
+BES@ضاطلس071@toSar:min=0.38
 BES@ضصاد70@toSar:min=0.38
 BES@ضذوب70@toSar:min=0.45
-BES@ضراز80@toSar:min=0.38
 BES@ضسپا70@toSar:min=0.38
 BES@ضبساما7@toSar:min=0.38
 BES@ضفرابورس7@toSar:min=0.35
@@ -77,10 +76,12 @@ BES@ضستا80@toSar:min=0.38
 BES@ضدرو70@toSar:min=0.38
 BES@ضطعام8@toSar:min=0.38
 BES@ضشنا8@toSar:min=0.38
+BES@ضراز80@toSar:min=0.38
+BES@ضخود80@toSar:min=0.38
 BES@ضجار8@toSar:min=0.38
 BES@ضذوب8@toSar:min=0.38
 BES@ضملت8@toSar:min=0.38
-BES@ضاطلس071@toSar:min=0.38
+
 
 
 ---------------------------------------
