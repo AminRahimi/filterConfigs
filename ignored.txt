@@ -23,7 +23,7 @@ BUS@ضصاد70@toSar:max=-0.26
 BUS@ضموج7@toSar:max=-0.32
 BUS@ضذوب70@toSar:max=-0.20
 BUS@ضدرو70@toSar:max=-0.25
-BUS@ضسپا70@toSar:max=-0.29
+BUS@ضسپا70@toSar:max=-0.25
 BUS@ضبساما7@toSar:max=-0.23
 BUS@ضفرابورس7@toSar:max=-0.30
 BUS@ضهمن70@toSar:max=-0.29
@@ -35,6 +35,7 @@ BUS@ضجار8@toSar:max=-0.32
 BUS@ضشنا8@toSar:max=-0.32
 BUS@ضذوب8@toSar:max=-0.27
 BUS@ضملت8@toSar:max=-0.32
+BUS@ضاطلس071@toSar:max=-0.32
 
 
 
@@ -79,6 +80,7 @@ BES@ضشنا8@toSar:min=0.38
 BES@ضجار8@toSar:min=0.38
 BES@ضذوب8@toSar:min=0.38
 BES@ضملت8@toSar:min=0.38
+BES@ضاطلس071@toSar:min=0.38
 
 
 ---------------------------------------
@@ -267,19 +269,7 @@ CALL_BUTT_CONDOR@p:0.01
 
 
 
-BEPS_Ratio@
 
-BUCS_RATIO@
-
-BECS_Ratio@
-
-BUS_With_BUPS_BECS@
-BUS_With_BUCS_BEPS@
-BES_With_BUCS_BEPS@
-IRON_BUTT_CONDOR_BUCS@
-IRON_BUTT_CONDOR_BUPS@
-BESRatio_BUPS@
-BES_With_BUPS_BECS@
 
 
 
