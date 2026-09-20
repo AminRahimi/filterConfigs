@@ -5,28 +5,25 @@ ALL@خودرو
 ALL@خساپا
 
 
-BUS@ضهرم70@toSar:max=-0.17
-BUS@ضفزر6@toSar:max=-0.09
-BUS@ضموج6@toSar:max=-0.09
-BUS@ضتوان6@toSar:max=-0.09
-BUS@ضفزر7@toSar:max=-0.17
-BUS@ضتاص70@toSar:max=-0.20
-BUS@ضملي70@toSar:max=-0.20
+BUS@ضهرم70@toSar:max=-0.20
+BUS@ضفزر7@toSar:max=-0.20
+BUS@ضتاص70@toSar:max=-0.15
+BUS@ضملي70@toSar:max=-0.19
 BUS@ضخود71@toSar:max=-0.19
-BUS@ضستا70@toSar:max=-0.20
+BUS@ضستا70@toSar:max=-0.18
 BUS@ضملت70@toSar:max=-0.20
 BUS@ضاطلس070@toSar:max=-0.12
-BUS@ضمخا7@toSar:max=-0.25
+BUS@ضمخا7@toSar:max=-0.23
 BUS@ضصاد70@toSar:max=-0.20
 BUS@ضموج7@toSar:max=-0.26
-BUS@ضذوب70@toSar:max=-0.16
-BUS@ضدرو70@toSar:max=-0.25
+BUS@ضذوب70@toSar:max=-0.18
+BUS@ضاطلس071@toSar:max=-0.20
+BUS@ضدزاگرس7@toSar:max=-0.25
+BUS@ضدرو70@toSar:max=-0.20
 BUS@ضسپا70@toSar:max=-0.22
 BUS@ضبساما7@toSar:max=-0.20
 BUS@ضفرابورس7@toSar:max=-0.32
 BUS@ضهمن70@toSar:max=-0.27
-BUS@ضاطلس071@toSar:max=-0.32
-BUS@ضدزاگرس7@toSar:max=-0.32
 BUS@ضتوان7@toSar:max=-0.32
 BUS@ضخود80@toSar:max=-0.32
 BUS@ضراز80@toSar:max=-0.23
@@ -36,8 +33,7 @@ BUS@ضجار8@toSar:max=-0.32
 BUS@ضشنا8@toSar:max=-0.32
 BUS@ضذوب8@toSar:max=-0.27
 BUS@ضملت8@toSar:max=-0.32
-
-
+BUS@ضاطلس080@toSar:max=-0.32
 
 
 
@@ -48,9 +44,6 @@ BUS@ضملت8@toSar:max=-0.32
 
 
 BES@ضهرم70@toSar:min=0.35
-BES@ضفزر6@toSar:min=0.06
-BES@ضتوان6@toSar:min=0.06
-BES@ضموج6@toSar:min=0.06
 BES@ضتاص70@toSar:min=0.20
 BES@ضخود71@toSar:min=0.20
 BES@ضملي70@toSar:min=0.30
@@ -90,32 +83,19 @@ IRON_BUTT_CONDOR_BUCS@ضخود71@profit:0.07
 IRON_BUTT_CONDOR_BUCS@ضهرم70@profit:0.06
 
 
-
 BECS_goodPL@toSar:min=-0.06
 BEPS_goodPL@toSar:min=-0.06
 
 BUCS_goodPL@toSar:max=0.05
 
 
-
 LongGUTS_STRANGLE@profit:0.03
-
-
 
 CALL_BUTT_CONDOR@profit:-0.01
 
-
 CALL_BUTT_CONDOR@ضملي7061-ضملي7066-ضملي7066-ضملي7067@profit:0.05
 
-
-IRON_BUTT_CONDOR_BUCS@ضفزر6@p:0
-
-
-
 BOX_BUPS_BECS@طستا7061-طستا7062-ضستا7062-ضستا7061@p:0.06
-
-
-
 
 
 BOX@ضخود7134-ضخود7135-طخود7134-طخود7135@p:0.06
@@ -139,11 +119,10 @@ BOX@ضدرو7006-ضدرو7007-طدرو7006-طدرو7007@p:0.1
 
 
 
-
 BOX_BUPS_BECS@طفزر717-طفزر718-ضفزر718-ضفزر717@p:0.1
 
 
-BOX@ضملي7@p:0.06
+
 
 
 CALL_BUTTERFLY@p:0
@@ -159,7 +138,7 @@ BOX_BUPS_BECS@p:0.055
 
 
 
-SYNTHETIC_COVERED_CALL@ضهرم70@p:0.12
+SYNTHETIC_COVERED_CALL@ضهرم70@p:0.10
 
 
 
