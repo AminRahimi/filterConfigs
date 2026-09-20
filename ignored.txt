@@ -5,7 +5,7 @@ ALL@خودرو
 ALL@خساپا
 
 
-BUS@ضهرم70@toSar:max=-0.20
+BUS@ضهرم70@toSar:max=-0.25
 BUS@ضفزر7@toSar:max=-0.20
 BUS@ضتاص70@toSar:max=-0.15
 BUS@ضملي70@toSar:max=-0.19
