@@ -1,23 +1,24 @@
-
+ALL@ضهرم70
+ALL@طهرم70
 
 ALL@وبصادر
 
-ALL@خساپا
-ALL@فزر
+ALL@فملی
+ALL@شستا
 
 
-BUS@ضهرم70@toSar:max=-0.20
-BUS@ضفزر7@toSar:max=-0.20
-BUS@ضتاص70@toSar:max=-0.15
+BUS@ضهرم70@toSar:max=-0.15
+BUS@ضفزر7@toSar:max=-0.28
+BUS@ضتاص70@toSar:max=-0.12
 BUS@ضملي70@toSar:max=-0.12
-BUS@ضاطلس070@toSar:max=-0.15
-BUS@ضخود71@toSar:max=-0.13
-BUS@ضستا70@toSar:max=-0.18
+BUS@ضاطلس070@toSar:max=-0.07
+BUS@ضخود71@toSar:max=-0.11
+BUS@ضستا70@toSar:max=-0.13
 BUS@ضملت70@toSar:max=-0.20
 BUS@ضمخا7@toSar:max=-0.23
 BUS@ضصاد70@toSar:max=-0.20
-BUS@ضموج7@toSar:max=-0.26
 BUS@ضدرو70@toSar:max=-0.20
+BUS@ضموج7@toSar:max=-0.26
 BUS@ضذوب70@toSar:max=-0.18
 BUS@ضاطلس071@toSar:max=-0.20
 BUS@ضدزاگرس7@toSar:max=-0.25
@@ -157,6 +158,56 @@ COVERED@ضملت7@p:0.04
 
 CONVERSION@ضخود7@p:0.02
 COVERED@ضخود7@p:0.02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
