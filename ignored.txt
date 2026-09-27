@@ -46,17 +46,17 @@ BUS@ضصاد8@toSar:max=-0.32
 
 
 BES@ضهرم70@toSar:min=0.35
-BES@ضتاص70@toSar:min=0.15
+BES@ضتاص70@toSar:min=0.10
 BES@ضخود71@toSar:min=0.12
-BES@ضملي70@toSar:min=0.30
-BES@ضستا70@toSar:min=0.35
+BES@ضملي70@toSar:min=0.12
+BES@ضستا70@toSar:min=0.20
 BES@ضفزر7@toSar:min=0.35
-BES@ضملت70@toSar:min=0.42
+BES@ضملت70@toSar:min=0.35
 BES@ضمخا7@toSar:min=0.48
 BES@ضاطلس071@toSar:min=0.38
 BES@ضصاد70@toSar:min=0.38
 BES@ضذوب70@toSar:min=0.45
-BES@ضسپا70@toSar:min=0.38
+BES@ضسپا70@toSar:min=0.36
 BES@ضتوان7@toSar:min=0.38
 BES@ضبساما7@toSar:min=0.38
 BES@ضموج7@toSar:min=0.38
