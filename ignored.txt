@@ -3,12 +3,11 @@ ALL@طهرم70
 
 ALL@خساپا
 
-ALL@شستا
 ALL@فرابورس
 
 
 BUS@ضهرم70@toSar:max=-0.15
-BUS@ضتاص70@toSar:max=-0.06
+BUS@ضتاص70@toSar:max=-0.08
 BUS@ضملي70@toSar:max=-0.07
 BUS@ضخود71@toSar:max=-0.07
 BUS@ضستا70@toSar:max=-0.13
@@ -165,7 +164,7 @@ IRON_BUTT_CONDOR_BUCS@p:0
 
 
 
-
+BECS_goodPL@
 
 
 
