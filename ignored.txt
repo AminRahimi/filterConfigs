@@ -75,17 +75,16 @@ BES@ضملي80@toSar:min=0.38
 ---------------------------------------
 
 
-IRON_BUTT_CONDOR_BUPS@طخود71@profit:0.02
-
 
 LongGUTS_STRANGLE@allProfit
 
-IRON_BUTT_CONDOR_BUCS@ضخود71@profit:0.07
-IRON_BUTT_CONDOR_BUCS@ضهرم70@profit:0.06
 
 
 BECS_goodPL@toSar:min=-0.06
 BEPS_goodPL@toSar:min=-0.06
+
+
+BECS_goodPL@
 
 BUCS_goodPL@toSar:max=0.05
 
@@ -94,29 +93,21 @@ LongGUTS_STRANGLE@profit:0.03
 
 CALL_BUTT_CONDOR@profit:-0.01
 
-CALL_BUTT_CONDOR@ضملي7061-ضملي7066-ضملي7066-ضملي7067@profit:0.05
 
 BOX_BUPS_BECS@طستا7061-طستا7062-ضستا7062-ضستا7061@p:0.06
 
 
-BOX@ضخود7134-ضخود7135-طخود7134-طخود7135@p:0.06
 
 BOX_BUPS_BECS@طذوب7044-طذوب7045-ضذوب7045-ضذوب7044@p:0.06
 
-
-BOX@ضملي7070-ضملي7071-طملي7070-طملي7071@p:0.065
 
 
 
 BOX@ضستا7062-ضستا7063-طستا7062-طستا7063@p:0.09
 
-BUCS_LONG_PUT@ضخود7130-ضخود7137-طخود7137@p:0.09
-
 
 
 BOX@ضدرو7006-ضدرو7007-طدرو7006-طدرو7007@p:0.1
-
-
 
 
 
@@ -125,18 +116,10 @@ BOX_BUPS_BECS@طفزر717-طفزر718-ضفزر718-ضفزر717@p:0.1
 
 
 
-
 CALL_BUTTERFLY@p:0
 PUT_BUTTERFLY@p:0
 
 CALL_BUTT_CONDOR@p:0.01
-
-
-BOX@p:0.055
-
-BOX_BUPS_BECS@p:0.055
-
-
 
 
 SYNTHETIC_COVERED_CALL@ضهرم70@p:0.09
@@ -152,17 +135,11 @@ CONVERSION@ضملت7@p:0.04
 COVERED@ضملت7@p:0.04
 
 
-CONVERSION@ضخود7@p:0.02
-COVERED@ضخود7@p:0.02
-
 
 
 IRON_BUTT_CONDOR_BUCS@p:0
 
 
-
-
-BECS_goodPL@
 
 
 
