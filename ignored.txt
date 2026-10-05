@@ -10,16 +10,16 @@ ALL@شستا
 ALL@خساپا
 
 
-BUS@ضهرم70@toSar:max=-0.15
-BUS@ضستا70@toSar:max=-0.15
-BUS@ضذوب70@toSar:max=-0.09
+BUS@ضهرم70@toSar:max=-0.18
+BUS@ضستا70@toSar:max=-0.06
+BUS@ضذوب70@toSar:max=-0.08
 BUS@ضملت70@toSar:max=-0.15
-BUS@ضاطلس071@toSar:max=-0.15
+BUS@ضاطلس071@toSar:max=-0.14
 BUS@ضدزاگرس7@toSar:max=-0.15
-BUS@ضمخا7@toSar:max=-0.23
-BUS@ضصاد70@toSar:max=-0.15
+BUS@ضمخا7@toSar:max=-0.15
+BUS@ضصاد70@toSar:max=-0.12
 BUS@ضفزر7@toSar:max=-0.17
-BUS@ضدرو70@toSar:max=-0.15
+BUS@ضدرو70@toSar:max=-0.06
 BUS@ضموج7@toSar:max=-0.20
 BUS@ضسپا70@toSar:max=-0.15
 BUS@ضبساما7@toSar:max=-0.20
@@ -76,7 +76,7 @@ BES@ضملي80@toSar:min=0.38
 BES@ضدرو80@toSar:min=0.38
 BES@ضتاص80@toSar:min=0.48
 BES@ضاطلس080@toSar:min=0.38
-
+BES@ضمخا80@toSar:min=0.38
 
 
 ---------------------------------------
@@ -127,12 +127,12 @@ BOX@ضذوب7043-ضذوب7044-طذوب7043-طذوب7044@p:0.06
 
 
 
+BOX@ضملت7046-ضملت7047-طملت7046-طملت7047@p:0.08
 
 
 
 
-
-
+SHORT_STRANGLE@ضذوب70@toLSar:max=-0.10@toHSar:min=0.08
 
 
 
