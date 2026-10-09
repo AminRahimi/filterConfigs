@@ -4,16 +4,14 @@ ALL@وتجارت
 
 
 BUS@ضهرم70@toSar:max=-0.18
-BUS@ضستا70@toSar:max=-0.05
 BUS@ضذوب70@toSar:max=-0.05
-BUS@ضدرو70@toSar:max=-0.05
-BUS@ضملت70@toSar:max=-0.06
-BUS@ضصاد70@toSar:max=-0.06
-BUS@ضاطلس071@toSar:max=-0.10
+BUS@ضملت70@toSar:max=-0.09
+BUS@ضصاد70@toSar:max=-0.07
+BUS@ضاطلس071@toSar:max=-0.06
+BUS@ضدزاگرس7@toSar:max=-0.06
 BUS@ضسپا70@toSar:max=-0.10
 BUS@ضبساما7@toSar:max=-0.15
-BUS@ضدزاگرس7@toSar:max=-0.15
-BUS@ضمخا7@toSar:max=-0.15
+BUS@ضمخا7@toSar:max=-0.12
 BUS@ضفزر7@toSar:max=-0.17
 BUS@ضموج7@toSar:max=-0.15
 BUS@ضفرابورس7@toSar:max=-0.16
