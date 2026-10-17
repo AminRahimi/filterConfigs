@@ -1,5 +1,4 @@
-ALL@ضهرم70
-ALL@طهرم70
+
 ALL@فرابورس
 ALL@وتجارت
 ALL@خساپا
@@ -9,7 +8,7 @@ ALL@فزر
 
 
 BUS@ضهرم70@toSar:max=-0.15
-BUS@ضسپا70@toSar:max=-0.10
+BUS@ضسپا70@toSar:max=-0.15
 BUS@ضبساما7@toSar:max=-0.10
 BUS@ضفزر7@toSar:max=-0.10
 BUS@ضموج7@toSar:max=-0.15
@@ -38,6 +37,9 @@ BUS@ضسپا80@toSar:max=-0.32
 BUS@ضهرم80@toSar:max=-0.32
 BUS@ضاطلس081@toSar:max=-0.32
 BUS@ضموج8@toSar:max=-0.32
+BUS@ضملي90@toSar:max=-0.32
+BUS@ضخود90@toSar:max=-0.32
+BUS@ضتاص90@toSar:max=-0.32
 
 
 
@@ -76,6 +78,9 @@ BES@ضتوان8@toSar:min=0.38
 BES@ضسپا80@toSar:min=0.38
 BES@ضهرم80@toSar:min=0.38
 BES@ضموج8@toSar:min=0.38
+BES@ضملي90@toSar:min=0.38
+BES@ضخود90@toSar:min=0.38
+BES@ضتاص90@toSar:min=0.38
 
 
 
