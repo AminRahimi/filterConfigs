@@ -4,7 +4,7 @@ ALL@وتجارت
 ALL@خساپا
 ALL@فزر
 
-
+ALL@شستا
 
 
 BUS@ضهرم70@toSar:max=-0.13
@@ -48,7 +48,7 @@ BUS@ضتاص90@toSar:max=-0.32
 
 
 
-BES@ضهرم70@toSar:min=0.08
+BES@ضهرم70@toSar:min=0.09
 BES@ضفزر7@toSar:min=0.05
 BES@ضبساما7@toSar:min=0.05
 BES@ضسپا70@toSar:min=0.10
