@@ -1,11 +1,10 @@
 
-ALL@فرابورس
-ALL@وتجارت
-ALL@خساپا
+
 ALL@فزر
 ALL@فملی
+ALL@تاصيكو
 
-ALL@شستا
+
 
 
 BUS@ضهرم70@toSar:max=-0.10
@@ -72,7 +71,7 @@ BES@ضمخا80@toSar:min=0.38
 BES@ضفزر8@toSar:min=0.20
 BES@ضتوان8@toSar:min=0.38
 BES@ضسپا80@toSar:min=0.38
-BES@ضهرم80@toSar:min=0.25
+BES@ضهرم80@toSar:min=0.35
 BES@ضموج8@toSar:min=0.38
 BES@ضملي90@toSar:min=0.38
 BES@ضخود90@toSar:min=0.38
@@ -103,13 +102,6 @@ CALL_BUTT_CONDOR@p:0.04
 IRON_BUTT_CONDOR_BUPS@p:0.04
 
 IRON_BUTT_CONDOR_BUCS@p:0.04
-
-
-
-
-
-
-
 
 
 
