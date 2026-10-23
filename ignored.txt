@@ -7,10 +7,7 @@ ALL@تاصيكو
 
 
 
-BUS@ضهرم70@toSar:max=-0.05
-BUS@ضسپا70@toSar:max=-0.05
-BUS@ضهمن70@toSar:max=-0.05
-BUS@ضاطلس080@toSar:max=-0.15
+BUS@ضاطلس080@toSar:max=-0.07
 BUS@ضخود80@toSar:max=-0.10
 BUS@ضملي8@toSar:max=-0.10
 BUS@ضراز80@toSar:max=-0.20
@@ -52,15 +49,12 @@ BUS@ضدرو90@toSar:max=-0.32
 
 
 
-BES@ضهرم70@toSar:min=0.09
-BES@ضسپا70@toSar:min=0.10
-BES@ضهمن70@toSar:min=0.20
 BES@ضاطلس080@toSar:min=0.10
 BES@ضتاص80@toSar:min=0.40
 BES@ضخود80@toSar:min=0.20
-BES@ضاطلس081@toSar:min=0.20
 BES@ضراز80@toSar:min=0.20
 BES@ضبان80@toSar:min=0.38
+BES@ضاطلس081@toSar:min=0.20
 BES@ضپيك80@toSar:min=0.38
 BES@ضصاد8@toSar:min=0.38
 BES@ضدرو80@toSar:min=0.38
