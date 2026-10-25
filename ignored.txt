@@ -1,35 +1,36 @@
+ALL@ضهرم80
+ALL@طهرم80
 
 
 ALL@فزر
-ALL@فملی
+
 ALL@تاصيكو
 
 
 
 
-BUS@ضاطلس080@toSar:max=-0.07
 BUS@ضخود80@toSar:max=-0.10
 BUS@ضملي8@toSar:max=-0.10
-BUS@ضراز80@toSar:max=-0.20
+BUS@ضراز80@toSar:max=-0.10
 BUS@ضطعام8@toSar:max=-0.12
 BUS@ضتاص80@toSar:max=-0.10
 BUS@ضصاد8@toSar:max=-0.15
-BUS@ضبان80@toSar:max=-0.20
-BUS@ضپيك80@toSar:max=-0.25
-BUS@ضدرو80@toSar:max=-0.20
+BUS@ضبان80@toSar:max=-0.15
+BUS@ضپيك80@toSar:max=-0.15
+BUS@ضدرو80@toSar:max=-0.15
 BUS@ضستا80@toSar:max=-0.15
+BUS@ضاطلس081@toSar:max=-0.32
 BUS@ضجار8@toSar:max=-0.25
 BUS@ضشنا8@toSar:max=-0.32
 BUS@ضهمن80@toSar:max=-0.17
-BUS@ضذوب8@toSar:max=-0.11
+BUS@ضذوب8@toSar:max=-0.13
 BUS@ضملت8@toSar:max=-0.22
-BUS@ضاطلس081@toSar:max=-0.32
 BUS@ضمخا80@toSar:max=-0.32
 BUS@ضفزر8@toSar:max=-0.15
 BUS@ضتوان8@toSar:max=-0.32
 BUS@ضسپا80@toSar:max=-0.32
-BUS@ضهرم80@toSar:max=-0.17
-BUS@ضموج8@toSar:max=-0.32
+BUS@ضهرم80@toSar:max=-0.15
+BUS@ضموج8@toSar:max=-0.20
 BUS@ضملي90@toSar:max=-0.32
 BUS@ضخود90@toSar:max=-0.32
 BUS@ضتاص90@toSar:max=-0.32
@@ -49,10 +50,9 @@ BUS@ضاطلس090@toSar:max=-0.32
 
 
 
-BES@ضاطلس080@toSar:min=0.07
-BES@ضتاص80@toSar:min=0.20
-BES@ضخود80@toSar:min=0.20
-BES@ضراز80@toSar:min=0.20
+BES@ضتاص80@toSar:min=0.15
+BES@ضخود80@toSar:min=0.15
+BES@ضراز80@toSar:min=0.15
 BES@ضبان80@toSar:min=0.38
 BES@ضاطلس081@toSar:min=0.20
 BES@ضپيك80@toSar:min=0.38
@@ -63,7 +63,7 @@ BES@ضستا80@toSar:min=0.38
 BES@ضطعام8@toSar:min=0.38
 BES@ضشنا8@toSar:min=0.38
 BES@ضجار8@toSar:min=0.38
-BES@ضذوب8@toSar:min=0.40
+BES@ضذوب8@toSar:min=0.25
 BES@ضهمن80@toSar:min=0.38
 BES@ضملت8@toSar:min=0.38
 BES@ضمخا80@toSar:min=0.38
@@ -128,6 +128,46 @@ COVERED_COLLAR@ضهرم80@p:0.05
 
 
 
+SellPut@طخود80@p:0.018
+
+
+
+
+
+BOX@ضملي8097-ضملي8098-طملي8097-طملي8098@p:0.07
+
+
+
+BOX_BUPS_BECS@طملي8096-طملي8097-ضملي8097-ضملي8096@p:0.07
+
+
+
+
+
+ARBITRAGE_PUT@خودرو-طخود8064@p:0.005
+
+
+
+BECS@ضمخا8017-ضمخا8018@p:1.25
+
+
+
+
+BOX@ضملي8096-ضملي8097-طملي8096-طملي8097@p:0.06
+
+
+
+
+PUT_BUTTERFLY@طخود80
+
+
+
+
+BUCS_LONG_PUT@ضهرم8025-ضهرم8032-طهرم8033@p:0.11
+
+
+
+BUS_With_BUCS_BEPS@ضملي80@p:0.08
 
 
 
@@ -137,11 +177,70 @@ COVERED_COLLAR@ضهرم80@p:0.05
 
 
 
-BUCS@ضملي8090-ضملي8094@p:0.016
 
 
 
-SellPut@طملي8094@p:0.016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
