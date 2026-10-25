@@ -39,6 +39,7 @@ BUS@ضبان90@toSar:max=-0.32
 BUS@ضپيك90@toSar:max=-0.32
 BUS@ضدرو90@toSar:max=-0.32
 BUS@ضاطلس090@toSar:max=-0.32
+BUS@ضستا90@toSar:max=-0.32
 
 
 
@@ -80,6 +81,7 @@ BES@ضبان90@toSar:min=0.38
 BES@ضپيك90@toSar:min=0.38
 BES@ضدرو90@toSar:min=0.38
 BES@ضاطلس090@toSar:min=0.38
+BES@ضستا90@toSar:min=0.38
 
 
 
