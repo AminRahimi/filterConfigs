@@ -1,5 +1,3 @@
-ALL@ضهرم80
-ALL@طهرم80
 
 
 ALL@فزر
@@ -7,9 +5,12 @@ ALL@فزر
 ALL@تاصيكو
 
 ALL@شستا
+ALL@فملی
+ALL@خساپا
 
 
-BUS@ضخود80@toSar:max=-0.07
+
+BUS@ضخود80@toSar:max=-0.10
 BUS@ضملي8@toSar:max=-0.08
 BUS@ضراز80@toSar:max=-0.08
 BUS@ضطعام8@toSar:max=-0.12
@@ -22,17 +23,17 @@ BUS@ضستا80@toSar:max=-0.15
 BUS@ضاطلس081@toSar:max=-0.32
 BUS@ضجار8@toSar:max=-0.25
 BUS@ضشنا8@toSar:max=-0.32
-BUS@ضهمن80@toSar:max=-0.17
-BUS@ضذوب8@toSar:max=-0.08
+BUS@ضهمن80@toSar:max=-0.15
+BUS@ضذوب8@toSar:max=-0.12
 BUS@ضملت8@toSar:max=-0.22
 BUS@ضمخا80@toSar:max=-0.32
 BUS@ضفزر8@toSar:max=-0.15
 BUS@ضتوان8@toSar:max=-0.32
-BUS@ضسپا80@toSar:max=-0.32
-BUS@ضهرم80@toSar:max=-0.15
-BUS@ضموج8@toSar:max=-0.20
+BUS@ضسپا80@toSar:max=-0.39
+BUS@ضهرم80@toSar:max=-0.20
+BUS@ضموج8@toSar:max=-0.25
 BUS@ضملي90@toSar:max=-0.32
-BUS@ضخود90@toSar:max=-0.32
+BUS@ضخود90@toSar:max=-0.39
 BUS@ضتاص90@toSar:max=-0.32
 BUS@ضراز90@toSar:max=-0.32
 BUS@ضبان90@toSar:max=-0.32
@@ -40,6 +41,19 @@ BUS@ضپيك90@toSar:max=-0.32
 BUS@ضدرو90@toSar:max=-0.32
 BUS@ضاطلس090@toSar:max=-0.32
 BUS@ضستا90@toSar:max=-0.32
+BUS@ضكاريس9@toSar:max=-0.32
+BUS@ضموج9@toSar:max=-0.32
+BUS@ضملت90@toSar:max=-0.32
+BUS@ضهرم90@toSar:max=-0.32
+BUS@ضاطلس092@toSar:max=-0.32
+BUS@ضذوب90@toSar:max=-0.32
+BUS@ضمخا90@toSar:max=-0.32
+BUS@ضدزاگرس9@toSar:max=-0.32
+BUS@ضصاد90@toSar:max=-0.32
+BUS@ضشنا90@toSar:max=-0.32
+BUS@ضبساما9@toSar:max=-0.32
+BUS@ضسپا90@toSar:max=-0.32
+
 
 
 
@@ -70,11 +84,11 @@ BES@ضملت8@toSar:min=0.38
 BES@ضمخا80@toSar:min=0.38
 BES@ضفزر8@toSar:min=0.30
 BES@ضتوان8@toSar:min=0.38
-BES@ضسپا80@toSar:min=0.38
+BES@ضسپا80@toSar:min=0.25
 BES@ضهرم80@toSar:min=0.45
 BES@ضموج8@toSar:min=0.38
 BES@ضملي90@toSar:min=0.38
-BES@ضخود90@toSar:min=0.38
+BES@ضخود90@toSar:min=0.42
 BES@ضتاص90@toSar:min=0.38
 BES@ضراز90@toSar:min=0.38
 BES@ضبان90@toSar:min=0.38
@@ -82,7 +96,18 @@ BES@ضپيك90@toSar:min=0.38
 BES@ضدرو90@toSar:min=0.38
 BES@ضاطلس090@toSar:min=0.38
 BES@ضستا90@toSar:min=0.38
-
+BES@ضكاريس9@toSar:min=0.38
+BES@ضموج9@toSar:min=0.38
+BES@ضملت90@toSar:min=0.38
+BES@ضهرم90@toSar:min=0.38
+BES@ضاطلس092@toSar:min=0.38
+BES@ضذوب90@toSar:min=0.38
+BES@ضمخا90@toSar:min=0.38
+BES@ضدزاگرس9@toSar:min=0.38
+BES@ضصاد90@toSar:min=0.38
+BES@ضشنا90@toSar:min=0.38
+BES@ضبساما9@toSar:min=0.38
+BES@ضسپا90@toSar:min=0.38
 
 
 
@@ -146,7 +171,7 @@ BOX_BUPS_BECS@طملي8096-طملي8097-ضملي8097-ضملي8096@p:0.07
 
 
 
-ARBITRAGE_PUT@خودرو-طخود8064@p:0.005
+
 
 
 
@@ -191,6 +216,15 @@ SYNTHETIC_COVERED_CALL@ضملي8096-طملي8096-ضملي8094@p:0.018
 BUCS_COLLAR@ضخود8058-ضخود8060-طخود8060@p:0.04
 
 
+COVERED@خبهمن-ضهمن8000@p:0.037
+
+
+
+ARBITRAGE_PUT@خودرو-طخود8061@p:0.003
+
+
+
+CALL_BUTTERFLY@ضملي80
 
 
 
@@ -217,26 +251,17 @@ BUCS_COLLAR@ضخود8058-ضخود8060-طخود8060@p:0.04
 
 
 
+BUCS_COLLAR@ضخود8059-ضخود8060-طخود8060@p:0.10
+
+
+BUCS_COLLAR@ضخود8057-ضخود8060-طخود8060@p:0.10
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+BES_With_BUCS_BEPS@ضملي80
 
 
 
