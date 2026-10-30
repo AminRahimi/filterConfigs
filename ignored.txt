@@ -50,6 +50,7 @@ BUS@ضشنا90@toSar:max=-0.32
 BUS@ضبساما9@toSar:max=-0.32
 BUS@ضسپا90@toSar:max=-0.32
 BUS@ضهمن90@toSar:max=-0.32
+BUS@ضجار90@toSar:max=-0.32
 
 
 
@@ -103,6 +104,7 @@ BES@ضشنا90@toSar:min=0.38
 BES@ضبساما9@toSar:min=0.38
 BES@ضسپا90@toSar:min=0.38
 BES@ضهمن90@toSar:min=0.38
+BES@ضجار90@toSar:min=0.38
 
 
 
@@ -112,7 +114,7 @@ BES@ضهمن90@toSar:min=0.38
 ---------------------------------------
 
 LongGUTS_STRANGLE@allProfit
-LongGUTS_STRANGLE@profit:0.02
+LongGUTS_STRANGLE@profit:0.01
 
 
 BECS_goodPL@toSar:min=-0.06
@@ -138,32 +140,9 @@ BOX@ضملت8076-ضملت8077-طملت8076-طملت8077@p:0.1
 
 
 
-IRON_BUTT_CONDOR_BUPS@ضخود80
 
 
 CONVERSION@ضملت80@p:0.04
-
-
-CONVERSION@ضهرم80@p:0.05
-
-COVERED_COLLAR@ضهرم80@p:0.05
-
-
-
-SellPut@طخود80@p:0.018
-
-
-
-
-
-BOX@ضملي8097-ضملي8098-طملي8097-طملي8098@p:0.07
-
-
-
-BOX_BUPS_BECS@طملي8096-طملي8097-ضملي8097-ضملي8096@p:0.07
-
-
-
 
 
 
@@ -175,132 +154,9 @@ BECS@ضمخا8017-ضمخا8018@p:1.25
 
 
 
-BOX@ضملي8096-ضملي8097-طملي8096-طملي8097@p:0.06
-
-
-
-
-PUT_BUTTERFLY@طخود80
-
-
-
-
-BUCS_LONG_PUT@ضهرم8025-ضهرم8032-طهرم8033@p:0.11
-
-
-
-BUS_With_BUCS_BEPS@ضملي80@p:0.08
-
-
 
 
 BOX@ضستا8060-ضستا8061-طستا8060-طستا8061@p:0.07
-
-
-BOX_BUPS_BECS@طملي8094-طملي8096-ضملي8096-ضملي8094@p:0.04
-
-
-
-
-
-SYNTHETIC_COVERED_CALL@ضملي8096-طملي8096-ضملي8094@p:0.018
-
-
-
-
-BUCS_COLLAR@ضخود8058-ضخود8060-طخود8060@p:0.04
-
-
-COVERED@خبهمن-ضهمن8000@p:0.037
-
-
-
-ARBITRAGE_PUT@خودرو-طخود8061@p:0.003
-
-
-
-CALL_BUTTERFLY@ضملي80
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BUCS_COLLAR@ضخود8059-ضخود8060-طخود8060@p:0.10
-
-
-BUCS_COLLAR@ضخود8057-ضخود8060-طخود8060@p:0.10
-
-
-
-
-
-
-BES_With_BUCS_BEPS@ضملي80
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
