@@ -55,6 +55,7 @@ BUS@ضخود13@toSar:max=-0.32
 BUS@ضملي10@toSar:max=-0.32
 BUS@ضتاص10@toSar:max=-0.32
 BUS@ضراز10@toSar:max=-0.32
+BUS@ضفرابورس9@toSar:max=-0.32
 
 
 
@@ -113,6 +114,7 @@ BES@ضخود13@toSar:min=0.38
 BES@ضملي10@toSar:min=0.38
 BES@ضتاص10@toSar:min=0.38
 BES@ضراز10@toSar:min=0.38
+BES@ضفرابورس9@toSar:min=0.38
 
 
 
