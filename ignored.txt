@@ -1,5 +1,6 @@
 
-
+ALL@فزر
+ALL@شستا
 
 
 BUS@ضصاد8@toSar:max=-0.08
@@ -19,8 +20,8 @@ BUS@ضتوان8@toSar:max=-0.22
 BUS@ضسپا80@toSar:max=-0.20
 BUS@ضهرم80@toSar:max=-0.17
 BUS@ضموج8@toSar:max=-0.18
-BUS@ضملي90@toSar:max=-0.10
-BUS@ضخود90@toSar:max=-0.10
+BUS@ضملي90@toSar:max=-0.15
+BUS@ضخود90@toSar:max=-0.08
 BUS@ضتاص90@toSar:max=-0.22
 BUS@ضراز90@toSar:max=-0.26
 BUS@ضبان90@toSar:max=-0.20
@@ -47,6 +48,7 @@ BUS@ضملي10@toSar:max=-0.26
 BUS@ضتاص10@toSar:max=-0.26
 BUS@ضراز10@toSar:max=-0.26
 BUS@ضفرابورس9@toSar:max=-0.26
+BUS@ضملي10@toSar:max=-0.26
 
 
 
@@ -68,13 +70,13 @@ BES@ضدرو80@toSar:min=0.08
 BES@ضستا80@toSar:min=0.08
 BES@ضشنا8@toSar:min=0.30
 BES@ضجار8@toSar:min=0.30
-BES@ضذوب8@toSar:min=0.25
+BES@ضذوب8@toSar:min=0.23
 BES@ضملت8@toSar:min=0.27
 BES@ضمخا80@toSar:min=0.25
 BES@ضهمن80@toSar:min=0.38
 BES@ضفزر8@toSar:min=0.30
 BES@ضتوان8@toSar:min=0.38
-BES@ضسپا80@toSar:min=0.25
+BES@ضسپا80@toSar:min=0.30
 BES@ضهرم80@toSar:min=0.45
 BES@ضموج8@toSar:min=0.38
 BES@ضملي90@toSar:min=0.38
@@ -105,6 +107,7 @@ BES@ضملي10@toSar:min=0.38
 BES@ضتاص10@toSar:min=0.38
 BES@ضراز10@toSar:min=0.38
 BES@ضفرابورس9@toSar:min=0.38
+BES@ضملي10@toSar:min=0.38
 
 
 
@@ -114,7 +117,7 @@ BES@ضفرابورس9@toSar:min=0.38
 ---------------------------------------
 
 LongGUTS_STRANGLE@allProfit
-LongGUTS_STRANGLE@profit:0.01
+LongGUTS_STRANGLE@profit:0.02
 
 
 BECS_goodPL@toSar:min=-0.06
@@ -192,6 +195,38 @@ LongGUTS_STRANGLE@ضستا8058-طستا8060@p:0.03
 
 
 PUT_BUTTERFLY@طستا8060-طستا8061-طستا8061-طستا8062
+
+
+
+
+
+SellPut@طخود9051@p:0.05
+
+
+BOX@ضستا8059-ضستا8060-طستا8059-طستا8060@p:0.12
+
+BUCS_COLLAR@ضستا8058-ضستا8060-طستا8060@p:0.12
+
+
+BUCS_COLLAR@ضستا8059-ضستا8060-طستا8060@p:0.12
+
+SellPut@طخود9051@p:0.08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
