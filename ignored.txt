@@ -1,3 +1,7 @@
+ALL@ضدرو80
+ALL@ضستا80
+ALL@ضبان80
+ALL@ضپيك80
 
 ALL@فزر
 ALL@شپنا
@@ -17,7 +21,7 @@ BUS@ضسپا80@sar:max=520
 BUS@ضهرم80@sar:max=63000
 BUS@ضموج8@sar:max=82000
 BUS@ضملي90@sar:max=24000
-BUS@ضخود90@sar:max=620
+BUS@ضخود90@sar:max=613
 BUS@ضملت90@sar:max=1200
 BUS@ضتاص90@sar:max=30342
 BUS@ضراز90@sar:max=23000
@@ -68,7 +72,7 @@ BES@ضهمن80@sar:min=3230
 BES@ضفزر8@sar:min=390000
 BES@ضتوان8@sar:min=90000
 BES@ضسپا80@sar:min=700
-BES@ضهرم80@sar:min=100000
+BES@ضهرم80@sar:min=97000
 BES@ضموج8@sar:min=150000
 BES@ضملي90@sar:min=35000
 BES@ضخود90@sar:min=770
