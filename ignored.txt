@@ -45,6 +45,7 @@ BUS@ضصاد10@sar:max=773
 BUS@ضدرو10@sar:max=25000
 BUS@ضبان10@sar:max=17000
 BUS@ضپيك10@sar:max=30000
+BUS@ضفزر9@sar:max=250000
 
 
 
@@ -104,6 +105,7 @@ BES@ضصاد10@sar:min=1500
 BES@ضدرو10@sar:min=60000
 BES@ضبان10@sar:min=44000
 BES@ضپيك10@sar:min=82000
+BES@ضفزر9@sar:min=960000
 
 
 
