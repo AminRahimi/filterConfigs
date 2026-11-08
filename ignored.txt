@@ -1,24 +1,19 @@
 
-ALL@فزر
-ALL@شپنا
-ALL@اهرم
-ALL@وبملت
-
 
 BUS@ضاطلس081@sar:max=176640
 BUS@ضجار8@sar:max=730
 BUS@ضشنا8@sar:max=10638
 BUS@ضهمن80@sar:max=2300
 BUS@ضذوب8@sar:max=500
-BUS@ضملت8@sar:max=1337
+BUS@ضملت8@sar:max=1307
 BUS@ضمخا80@sar:max=1000
 BUS@ضفزر8@sar:max=290000
 BUS@ضتوان8@sar:max=65000
 BUS@ضسپا80@sar:max=550
 BUS@ضهرم80@sar:max=67000
 BUS@ضموج8@sar:max=90000
-BUS@ضملي90@sar:max=26800
-BUS@ضخود90@sar:max=620
+BUS@ضملي90@sar:max=25100
+BUS@ضخود90@sar:max=610
 BUS@ضاطلس090@sar:max=150000
 BUS@ضملت90@sar:max=1200
 BUS@ضتاص90@sar:max=33000
@@ -26,7 +21,7 @@ BUS@ضبان90@sar:max=20000
 BUS@ضراز90@sar:max=30000
 BUS@ضذوب90@sar:max=500
 BUS@ضصاد90@sar:max=770
-BUS@ضمخا90@sar:max=960
+BUS@ضمخا90@sar:max=940
 BUS@ضپيك90@sar:max=36000
 BUS@ضدرو90@sar:max=35000
 BUS@ضستا90@sar:max=2600
@@ -49,6 +44,8 @@ BUS@ضطعام10@sar:max=25000
 BUS@ضستا10@sar:max=2400
 BUS@ضصاد10@sar:max=773
 BUS@ضدرو10@sar:max=25000
+BUS@ضبان10@sar:max=17000
+BUS@ضپيك10@sar:max=30000
 
 
 
@@ -106,7 +103,8 @@ BES@ضطعام10@sar:min=44000
 BES@ضستا10@sar:min=5000
 BES@ضصاد10@sar:min=1500
 BES@ضدرو10@sar:min=60000
-
+BES@ضبان10@sar:min=44000
+BES@ضپيك10@sar:min=82000
 
 
 
@@ -147,8 +145,6 @@ SellPut@طخود9050@p:0.04
 
 
 
-SyntheticBuy@ضدرو10
-SyntheticSell@ضدرو10
 
 
 
@@ -162,21 +158,9 @@ BOX@ضذوب8029-ضذوب8030-طذوب8029-طذوب8030@p:0.06
 
 
 
+BOX@ضملت8074-ضملت8075-طملت8074-طملت8075@p:0.06
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+BOX@ضملت8074-ضملت8075-طملت8074-طملت8075@p:0.06
 
 
 
