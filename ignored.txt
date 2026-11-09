@@ -1,17 +1,17 @@
 
 
 BUS@ضجار8@sar:max=800
-BUS@ضشنا8@sar:max=10338
-BUS@ضهمن80@sar:max=2300
-BUS@ضذوب8@sar:max=520
-BUS@ضملت8@sar:max=1337
-BUS@ضمخا80@sar:max=1030
+BUS@ضشنا8@sar:max=11038
+BUS@ضهمن80@sar:max=2500
+BUS@ضذوب8@sar:max=530
+BUS@ضملت8@sar:max=1370
+BUS@ضمخا80@sar:max=1090
 BUS@ضفزر8@sar:max=250000
-BUS@ضتوان8@sar:max=66000
+BUS@ضتوان8@sar:max=68000
 BUS@ضسپا80@sar:max=540
-BUS@ضهرم80@sar:max=71000
+BUS@ضهرم80@sar:max=72000
 BUS@ضموج8@sar:max=93000
-BUS@ضملي90@sar:max=25100
+BUS@ضملي90@sar:max=23100
 BUS@ضخود90@sar:max=610
 BUS@ضاطلس090@sar:max=150000
 BUS@ضملت90@sar:max=1200
@@ -23,7 +23,7 @@ BUS@ضصاد90@sar:max=770
 BUS@ضمخا90@sar:max=970
 BUS@ضپيك90@sar:max=36000
 BUS@ضدرو90@sar:max=35000
-BUS@ضستا90@sar:max=2600
+BUS@ضستا90@sar:max=2800
 BUS@ضكاريس9@sar:max=70000
 BUS@ضموج9@sar:max=83000
 BUS@ضهرم90@sar:max=65000
