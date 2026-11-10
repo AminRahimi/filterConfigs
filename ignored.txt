@@ -9,7 +9,7 @@ BUS@ضمخا80@sar:max=1090
 BUS@ضفزر8@sar:max=250000
 BUS@ضتوان8@sar:max=68000
 BUS@ضسپا80@sar:max=540
-BUS@ضهرم80@sar:max=72000
+BUS@ضهرم80@sar:max=75000
 BUS@ضموج8@sar:max=93000
 BUS@ضملي90@sar:max=23100
 BUS@ضخود90@sar:max=610
@@ -26,7 +26,7 @@ BUS@ضدرو90@sar:max=35000
 BUS@ضستا90@sar:max=2800
 BUS@ضكاريس9@sar:max=70000
 BUS@ضموج9@sar:max=83000
-BUS@ضهرم90@sar:max=65000
+BUS@ضهرم90@sar:max=68000
 BUS@ضاطلس092@sar:max=150000
 BUS@ضدزاگرس9@sar:max=28000
 BUS@ضشنا90@sar:max=10000
@@ -61,7 +61,7 @@ BUS@ضفزر9@sar:max=250000
 
 BES@ضاطلس081@sar:min=189000
 BES@ضشنا8@sar:min=13300
-BES@ضجار8@sar:min=960
+BES@ضجار8@sar:min=1050
 BES@ضذوب8@sar:min=630
 BES@ضملت8@sar:min=1590
 BES@ضمخا80@sar:min=1260
@@ -74,7 +74,7 @@ BES@ضموج8@sar:min=160000
 BES@ضملي90@sar:min=36000
 BES@ضخود90@sar:min=930
 BES@ضتاص90@sar:min=80000
-BES@ضراز90@sar:min=36000
+BES@ضراز90@sar:min=39000
 BES@ضبان90@sar:min=44000
 BES@ضپيك90@sar:min=82000
 BES@ضدرو90@sar:min=56000
@@ -162,12 +162,6 @@ BOX@ضذوب8029-ضذوب8030-طذوب8029-طذوب8030@p:0.06
 BOX@ضملت8074-ضملت8075-طملت8074-طملت8075@p:0.06
 
 BOX@ضملت8074-ضملت8075-طملت8074-طملت8075@p:0.06
-
-
-
-
-
-
 
 
 
