@@ -1,27 +1,27 @@
 
 
-BUS@ضهمن80@sar:max=2430
-BUS@ضفزر8@sar:max=275000
-BUS@ضتوان8@sar:max=76000
-BUS@ضسپا80@sar:max=550
-BUS@ضهرم80@sar:max=78000
-BUS@ضموج8@sar:max=100000
-BUS@ضملي90@sar:max=23100
+BUS@ضهمن80@sar:max=2600
+BUS@ضفزر8@sar:max=281970
+BUS@ضتوان8@sar:max=79970
+BUS@ضسپا80@sar:max=555
+BUS@ضهرم80@sar:max=79000
+BUS@ضموج8@sar:max=109370
+BUS@ضملي90@sar:max=22100
 BUS@ضخود90@sar:max=630
 BUS@ضتاص90@sar:max=31000
-BUS@ضراز90@sar:max=32000
-BUS@ضاطلس090@sar:max=160000
+BUS@ضراز90@sar:max=31000
+BUS@ضاطلس090@sar:max=170000
 BUS@ضملت90@sar:max=1200
-BUS@ضبان90@sar:max=20000
-BUS@ضذوب90@sar:max=510
-BUS@ضصاد90@sar:max=880
-BUS@ضمخا90@sar:max=970
-BUS@ضپيك90@sar:max=36000
-BUS@ضدرو90@sar:max=35000
-BUS@ضستا90@sar:max=2800
+BUS@ضبان90@sar:max=22000
+BUS@ضذوب90@sar:max=520
+BUS@ضصاد90@sar:max=960
+BUS@ضمخا90@sar:max=1130
+BUS@ضپيك90@sar:max=41000
+BUS@ضدرو90@sar:max=36000
+BUS@ضستا90@sar:max=3000
 BUS@ضكاريس9@sar:max=70000
 BUS@ضموج9@sar:max=83000
-BUS@ضهرم90@sar:max=68000
+BUS@ضهرم90@sar:max=74000
 BUS@ضاطلس092@sar:max=150000
 BUS@ضدزاگرس9@sar:max=28000
 BUS@ضشنا90@sar:max=10000
@@ -42,6 +42,8 @@ BUS@ضبان10@sar:max=17000
 BUS@ضپيك10@sar:max=30000
 BUS@ضفزر9@sar:max=250000
 BUS@ضتوان9@sar:max=62000
+BUS@ضشنا13@sar:max=7500
+BUS@ضجار10@sar:max=520
 
 
 
@@ -55,18 +57,18 @@ BUS@ضتوان9@sar:max=62000
 
 
 
-BES@ضهمن80@sar:min=3230
-BES@ضفزر8@sar:min=318000
-BES@ضتوان8@sar:min=100000
-BES@ضسپا80@sar:min=670
+BES@ضهمن80@sar:min=3200
+BES@ضفزر8@sar:min=299422
+BES@ضتوان8@sar:min=90190
+BES@ضسپا80@sar:min=660
 BES@ضهرم80@sar:min=126000
-BES@ضموج8@sar:min=132000
-BES@ضملي90@sar:min=35000
-BES@ضخود90@sar:min=800
+BES@ضموج8@sar:min=123340
+BES@ضملي90@sar:min=33000
+BES@ضخود90@sar:min=780
 BES@ضتاص90@sar:min=46000
 BES@ضراز90@sar:min=38000
-BES@ضبان90@sar:min=44000
-BES@ضپيك90@sar:min=82000
+BES@ضبان90@sar:min=34000
+BES@ضپيك90@sar:min=70000
 BES@ضدرو90@sar:min=56000
 BES@ضاطلس090@sar:min=210000
 BES@ضستا90@sar:min=4777
@@ -75,14 +77,14 @@ BES@ضموج9@sar:min=180000
 BES@ضملت90@sar:min=2160
 BES@ضهرم90@sar:min=144000
 BES@ضاطلس092@sar:min=210000
-BES@ضذوب90@sar:min=1000
+BES@ضذوب90@sar:min=670
 BES@ضمخا90@sar:min=1770
-BES@ضدزاگرس9@sar:min=45000
-BES@ضصاد90@sar:min=1530
+BES@ضدزاگرس9@sar:min=49000
+BES@ضصاد90@sar:min=1400
 BES@ضشنا90@sar:min=30000
 BES@ضبساما9@sar:min=14000
 BES@ضسپا90@sar:min=770
-BES@ضهمن90@sar:min=3700
+BES@ضهمن90@sar:min=3600
 BES@ضجار90@sar:min=1390
 BES@ضخود13@sar:min=1400
 BES@ضملي10@sar:min=43000
@@ -97,6 +99,8 @@ BES@ضبان10@sar:min=44000
 BES@ضپيك10@sar:min=82000
 BES@ضفزر9@sar:min=960000
 BES@ضتوان9@sar:min=173000
+BES@ضشنا13@sar:min=30000
+BES@ضجار10@sar:min=2500
 
 
 
