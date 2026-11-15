@@ -6,7 +6,7 @@ BUS@ضتوان8@sar:max=79970
 BUS@ضسپا80@sar:max=555
 BUS@ضهرم80@sar:max=79000
 BUS@ضموج8@sar:max=109370
-BUS@ضملي90@sar:max=22100
+BUS@ضملي90@sar:max=22000
 BUS@ضخود90@sar:max=630
 BUS@ضتاص90@sar:max=31000
 BUS@ضراز90@sar:max=31000
@@ -44,6 +44,12 @@ BUS@ضبان10@sar:max=17000
 BUS@ضپيك10@sar:max=30000
 BUS@ضشنا13@sar:max=7500
 BUS@ضجار10@sar:max=520
+BUS@ضملت10@sar:max=1070
+BUS@ضاطلس102@sar:max=130000
+BUS@ضذوب10@sar:max=400
+BUS@ضاطلس100@sar:max=130000
+BUS@ضدوايكس9@sar:max=37000
+
 
 
 
@@ -58,7 +64,7 @@ BUS@ضجار10@sar:max=520
 
 
 BES@ضهمن80@sar:min=3200
-BES@ضفزر8@sar:min=299422
+BES@ضفزر8@sar:min=299922
 BES@ضتوان8@sar:min=90190
 BES@ضسپا80@sar:min=660
 BES@ضهرم80@sar:min=126000
@@ -101,6 +107,12 @@ BES@ضفزر9@sar:min=400000
 BES@ضتوان9@sar:min=173000
 BES@ضشنا13@sar:min=30000
 BES@ضجار10@sar:min=2500
+BES@ضملت10@sar:min=3000
+BES@ضاطلس102@sar:min=374000
+BES@ضذوب10@sar:min=1000
+BES@ضاطلس100@sar:min=374000
+BES@ضدوايكس9@sar:min=130000
+
 
 
 
@@ -134,6 +146,124 @@ SellPut@طخود9050@p:0.04
 
 
 BOX@ضملي9043-ضملي9044-طملي9043-طملي9044@p:0.06
+
+
+LongGUTS_STRANGLE@ضفزر813-طفزر814@p:0.06
+
+LongGUTS_STRANGLE@ضفزر813-طفزر815@p:0.10
+
+
+
+BEPS_COLLAR@طفزر813-طفزر814-ضفزر813@p:0.10
+
+BEPS_COLLAR@طفزر812-طفزر814-ضفزر812@p:0.10
+
+
+LongGUTS_STRANGLE@ضفزر812-طفزر816@p:0.10
+LongGUTS_STRANGLE@ضفزر812-طفزر815@p:0.10
+LongGUTS_STRANGLE@ضفزر811-طفزر816@p:0.10
+
+
+
+BUS_With_BUCS_BEPS@ضفزر8
+
+
+PUT_BUTTERFLY@طفزر817-طفزر818-طفزر818-طفزر819
+
+SyntheticSell@ضفزر8
+
+
+
+
+
+
+SellCallNokoolGain@ضفزر8
+
+BES_With_BUCS_BEPS@ضفزر8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
