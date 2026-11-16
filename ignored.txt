@@ -1,8 +1,7 @@
 
-
 BUS@ضهمن80@sar:max=2600
 BUS@ضسپا80@sar:max=560
-BUS@ضهرم80@sar:max=79000
+BUS@ضهرم80@sar:max=78000
 BUS@ضملي90@sar:max=22000
 BUS@ضخود90@sar:max=630
 BUS@ضتاص90@sar:max=31000
@@ -11,15 +10,16 @@ BUS@ضاطلس090@sar:max=170000
 BUS@ضملت90@sar:max=1200
 BUS@ضبان90@sar:max=22000
 BUS@ضذوب90@sar:max=520
+BUS@ضدوايكس9@sar:max=43000
 BUS@ضجار90@sar:max=770
-BUS@ضصاد90@sar:max=960
-BUS@ضمخا90@sar:max=1130
+BUS@ضصاد90@sar:max=970
+BUS@ضمخا90@sar:max=1180
 BUS@ضپيك90@sar:max=41000
 BUS@ضدرو90@sar:max=36000
 BUS@ضستا90@sar:max=3200
 BUS@ضكاريس9@sar:max=71000
-BUS@ضموج9@sar:max=88000
-BUS@ضهرم90@sar:max=74000
+BUS@ضموج9@sar:max=94000
+BUS@ضهرم90@sar:max=76000
 BUS@ضاطلس092@sar:max=138000
 BUS@ضدزاگرس9@sar:max=28000
 BUS@ضشنا90@sar:max=10000
@@ -27,8 +27,8 @@ BUS@ضبساما9@sar:max=9200
 BUS@ضسپا90@sar:max=490
 BUS@ضهمن90@sar:max=2200
 BUS@ضفرابورس9@sar:max=4400
-BUS@ضفزر9@sar:max=260000
-BUS@ضتوان9@sar:max=70000
+BUS@ضفزر9@sar:max=265000
+BUS@ضتوان9@sar:max=74000
 BUS@ضخود13@sar:max=560
 BUS@ضملي10@sar:max=21000
 BUS@ضتاص10@sar:max=28000
@@ -45,7 +45,8 @@ BUS@ضملت10@sar:max=1070
 BUS@ضاطلس102@sar:max=130000
 BUS@ضذوب10@sar:max=400
 BUS@ضاطلس100@sar:max=130000
-BUS@ضدوايكس9@sar:max=37000
+BUS@ضمخا10@sar:max=1000
+
 
 
 
@@ -85,12 +86,13 @@ BES@ضشنا90@sar:min=30000
 BES@ضبساما9@sar:min=14000
 BES@ضسپا90@sar:min=770
 BES@ضهمن90@sar:min=3600
-BES@ضجار90@sar:min=1290
+BES@ضجار90@sar:min=1200
 BES@ضخود13@sar:min=1400
 BES@ضملي10@sar:min=43000
 BES@ضتاص10@sar:min=80000
 BES@ضراز10@sar:min=40000
 BES@ضفرابورس9@sar:min=8000
+BES@ضدوايكس9@sar:min=130000
 BES@ضطعام10@sar:min=44000
 BES@ضستا10@sar:min=5000
 BES@ضصاد10@sar:min=1500
@@ -105,7 +107,8 @@ BES@ضملت10@sar:min=3000
 BES@ضاطلس102@sar:min=374000
 BES@ضذوب10@sar:min=1000
 BES@ضاطلس100@sar:min=374000
-BES@ضدوايكس9@sar:min=130000
+BES@ضمخا10@sar:min=3500
+
 
 
 
@@ -142,45 +145,11 @@ SellPut@طخود9050@p:0.04
 BOX@ضملي9043-ضملي9044-طملي9043-طملي9044@p:0.06
 
 
-LongGUTS_STRANGLE@ضفزر813-طفزر814@p:0.06
 
-LongGUTS_STRANGLE@ضفزر813-طفزر815@p:0.10
-
+BOX@ضفزر909-ضفزر911-طفزر909-طفزر911@p:0.08
 
 
-BEPS_COLLAR@طفزر813-طفزر814-ضفزر813@p:0.10
-
-BEPS_COLLAR@طفزر812-طفزر814-ضفزر812@p:0.10
-
-
-LongGUTS_STRANGLE@ضفزر812-طفزر816@p:0.10
-LongGUTS_STRANGLE@ضفزر812-طفزر815@p:0.10
-LongGUTS_STRANGLE@ضفزر811-طفزر816@p:0.10
-
-
-
-BUS_With_BUCS_BEPS@ضفزر8
-
-
-PUT_BUTTERFLY@طفزر817-طفزر818-طفزر818-طفزر819
-
-SyntheticSell@ضفزر8
-
-
-
-
-
-
-SellCallNokoolGain@ضفزر8
-
-BES_With_BUCS_BEPS@ضفزر8
-
-
-
-
-
-
-
+BOX@ضهرم8034-ضهرم8035-طهرم8034-طهرم8035@p:0.08
 
 
 
