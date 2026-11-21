@@ -1,30 +1,30 @@
 
 BUS@ضملي90@sar:max=22000
-BUS@ضخود90@sar:max=670
+BUS@ضخود90@sar:max=680
 BUS@ضتاص90@sar:max=31000
 BUS@ضراز90@sar:max=31000
 BUS@ضاطلس090@sar:max=170000
 BUS@ضملت90@sar:max=1300
 BUS@ضبان90@sar:max=22000
-BUS@ضذوب90@sar:max=510
-BUS@ضدوايكس9@sar:max=42000
-BUS@ضجار90@sar:max=860
-BUS@ضصاد90@sar:max=920
+BUS@ضذوب90@sar:max=530
+BUS@ضدوايكس9@sar:max=41300
+BUS@ضجار90@sar:max=830
+BUS@ضصاد90@sar:max=935
 BUS@ضمخا90@sar:max=1200
 BUS@ضپيك90@sar:max=41000
 BUS@ضدرو90@sar:max=36000
-BUS@ضستا90@sar:max=3200
+BUS@ضستا90@sar:max=3250
 BUS@ضكاريس9@sar:max=71000
-BUS@ضموج9@sar:max=97000
-BUS@ضهرم90@sar:max=79500
+BUS@ضموج9@sar:max=98000
+BUS@ضهرم90@sar:max=77000
 BUS@ضاطلس092@sar:max=138000
 BUS@ضدزاگرس9@sar:max=35000
-BUS@ضشنا90@sar:max=12500
+BUS@ضشنا90@sar:max=12000
 BUS@ضبساما9@sar:max=9200
-BUS@ضسپا90@sar:max=540
+BUS@ضسپا90@sar:max=560
 BUS@ضهمن90@sar:max=2200
 BUS@ضفرابورس9@sar:max=4400
-BUS@ضفزر9@sar:max=263000
+BUS@ضفزر9@sar:max=260000
 BUS@ضتوان9@sar:max=74000
 BUS@ضخود13@sar:max=560
 BUS@ضملي10@sar:max=21000
@@ -44,6 +44,8 @@ BUS@ضذوب10@sar:max=400
 BUS@ضاطلس100@sar:max=130000
 BUS@ضمخا10@sar:max=1000
 BUS@ضفزر10@sar:max=233000
+BUS@ضهرم10@sar:max=65000
+BUS@ضسپا10@sar:max=480
 
 
 
@@ -60,7 +62,7 @@ BUS@ضفزر10@sar:max=233000
 
 
 BES@ضملي90@sar:min=33000
-BES@ضخود90@sar:min=820
+BES@ضخود90@sar:min=940
 BES@ضتاص90@sar:min=46000
 BES@ضراز90@sar:min=38000
 BES@ضبان90@sar:min=34000
@@ -73,7 +75,7 @@ BES@ضموج9@sar:min=190000
 BES@ضملت90@sar:min=2160
 BES@ضهرم90@sar:min=144000
 BES@ضاطلس092@sar:min=210000
-BES@ضذوب90@sar:min=670
+BES@ضذوب90@sar:min=780
 BES@ضمخا90@sar:min=1770
 BES@ضدزاگرس9@sar:min=49000
 BES@ضصاد90@sar:min=1400
@@ -104,6 +106,8 @@ BES@ضذوب10@sar:min=1000
 BES@ضاطلس100@sar:min=374000
 BES@ضمخا10@sar:min=3500
 BES@ضفزر10@sar:min=555000
+BES@ضهرم10@sar:min=120000
+BES@ضسپا10@sar:min=850
 
 
 
@@ -152,6 +156,33 @@ BOX@ضهرم8034-ضهرم8035-طهرم8034-طهرم8035@p:0.08
 LongGUTS_STRANGLE@ضسپا8086-طسپا8087@p:0.08
 
 LongGUTS_STRANGLE@ضسپا8085-طسپا8088@p:0.08
+
+
+
+BOX_BUPS_BECS@طخود9054-طخود9055-ضخود9055-ضخود9054@p:0.09
+
+
+
+
+LongGUTS_STRANGLE@ضخود9053-طخود9057@p:0.07
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
