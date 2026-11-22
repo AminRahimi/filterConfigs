@@ -1,22 +1,22 @@
 
-BUS@ضملي90@sar:max=22000
-BUS@ضخود90@sar:max=680
+BUS@ضملي90@sar:max=23170
+BUS@ضخود90@sar:max=710
 BUS@ضتاص90@sar:max=31000
 BUS@ضراز90@sar:max=31000
 BUS@ضاطلس090@sar:max=170000
-BUS@ضملت90@sar:max=1300
+BUS@ضملت90@sar:max=1360
 BUS@ضبان90@sar:max=22000
-BUS@ضذوب90@sar:max=530
-BUS@ضدوايكس9@sar:max=41300
-BUS@ضجار90@sar:max=830
-BUS@ضصاد90@sar:max=935
-BUS@ضمخا90@sar:max=1200
+BUS@ضذوب90@sar:max=580
+BUS@ضدوايكس9@sar:max=42300
+BUS@ضجار90@sar:max=850
+BUS@ضصاد90@sar:max=940
+BUS@ضمخا90@sar:max=1170
 BUS@ضپيك90@sar:max=41000
 BUS@ضدرو90@sar:max=36000
-BUS@ضستا90@sar:max=3250
+BUS@ضستا90@sar:max=3300
 BUS@ضكاريس9@sar:max=71000
-BUS@ضموج9@sar:max=98000
-BUS@ضهرم90@sar:max=77000
+BUS@ضموج9@sar:max=101000
+BUS@ضهرم90@sar:max=78000
 BUS@ضاطلس092@sar:max=138000
 BUS@ضدزاگرس9@sar:max=35000
 BUS@ضشنا90@sar:max=12000
@@ -24,11 +24,11 @@ BUS@ضبساما9@sar:max=9200
 BUS@ضسپا90@sar:max=560
 BUS@ضهمن90@sar:max=2200
 BUS@ضفرابورس9@sar:max=4400
-BUS@ضفزر9@sar:max=260000
+BUS@ضفزر9@sar:max=264000
 BUS@ضتوان9@sar:max=74000
-BUS@ضخود13@sar:max=560
+BUS@ضخود13@sar:max=670
 BUS@ضملي10@sar:max=21000
-BUS@ضتاص10@sar:max=28000
+BUS@ضتاص10@sar:max=29000
 BUS@ضراز10@sar:max=22000
 BUS@ضطعام10@sar:max=25000
 BUS@ضستا10@sar:max=2400
@@ -47,6 +47,7 @@ BUS@ضفزر10@sar:max=233000
 BUS@ضهرم10@sar:max=65000
 BUS@ضسپا10@sar:max=480
 
+BUS@ضتوان10@sar:max=70000
 
 
 
@@ -81,7 +82,7 @@ BES@ضدزاگرس9@sar:min=49000
 BES@ضصاد90@sar:min=1400
 BES@ضشنا90@sar:min=30000
 BES@ضبساما9@sar:min=14000
-BES@ضسپا90@sar:min=690
+BES@ضسپا90@sar:min=760
 BES@ضهمن90@sar:min=3600
 BES@ضجار90@sar:min=1200
 BES@ضخود13@sar:min=1400
@@ -108,6 +109,7 @@ BES@ضمخا10@sar:min=3500
 BES@ضفزر10@sar:min=555000
 BES@ضهرم10@sar:min=120000
 BES@ضسپا10@sar:min=850
+BES@ضتوان10@sar:min=180000
 
 
 
@@ -128,12 +130,12 @@ BUCS_goodPL@toSar:max=0.05
 CALL_BUTTERFLY@p:0
 PUT_BUTTERFLY@p:0
 
-CALL_BUTT_CONDOR@p:0.04
+CALL_BUTT_CONDOR@p:0.03
 
 
-IRON_BUTT_CONDOR_BUPS@p:0.04
+IRON_BUTT_CONDOR_BUPS@p:0.03
 
-IRON_BUTT_CONDOR_BUCS@p:0.04
+IRON_BUTT_CONDOR_BUCS@p:0.03
 
 
 
@@ -149,13 +151,7 @@ BOX@ضملي9043-ضملي9044-طملي9043-طملي9044@p:0.06
 BOX@ضفزر909-ضفزر911-طفزر909-طفزر911@p:0.08
 
 
-BOX@ضهرم8034-ضهرم8035-طهرم8034-طهرم8035@p:0.08
 
-
-
-LongGUTS_STRANGLE@ضسپا8086-طسپا8087@p:0.08
-
-LongGUTS_STRANGLE@ضسپا8085-طسپا8088@p:0.08
 
 
 
@@ -164,11 +160,11 @@ BOX_BUPS_BECS@طخود9054-طخود9055-ضخود9055-ضخود9054@p:0.09
 
 
 
-LongGUTS_STRANGLE@ضخود9053-طخود9057@p:0.07
+LongGUTS_STRANGLE@ضخود9053-طخود9057@p:0.08
 
+LongGUTS_STRANGLE@ضملي9042-طملي9045@p:0.08
 
-
-
+BOX@ضملي9042-ضملي9043-طملي9042-طملي9043@p:0.07
 
 
 
